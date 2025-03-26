@@ -1,11 +1,10 @@
 {
   "Adroll": {
     "GB": {
-      "sites": 3,
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.1mg.com/",
         "http://www.eng-tips.com/",
         "http://www.folger.edu/"
       ],
@@ -14,56 +13,62 @@
     }
   },
   "Complianz banner": {
-    "US": {
-      "sites": 19,
-      "errors": 0,
-      "selfTestFailures": 1,
-      "exampleSites": [
-        "http://usatpu.org/",
-        "http://christianeducatorsacademy.com/",
-        "http://www.nvisioncenters.com/",
-        "http://www.theautopian.com/",
-        "http://www.courthousenews.com/"
-      ],
-      "failingSites": [
-        "http://www.tax.newmexico.gov/"
-      ],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 45,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://photovoltaik.one/",
-        "http://www.igorslab.de/",
-        "http://gebrauchtwagenberater.de/",
-        "http://lebensmittel-naehrstoffe.de/",
-        "http://lexicanum.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
-      "sites": 34,
+      "sites": 37,
       "errors": 1,
       "selfTestFailures": 5,
       "exampleSites": [
-        "http://www.myfootballfacts.com/",
-        "http://blackcitadelrpg.com/",
-        "http://sailboatdata.com/",
-        "http://thyroiduk.org/",
-        "http://washingtoncitypaper.com/"
+        "http://rechargevodafone.co.uk/",
+        "http://givenergy.co.uk/",
+        "http://rsgb.org/",
+        "http://www.savethestudent.org/",
+        "http://iasservices.org.uk/"
       ],
       "failingSites": [
         "http://firestickhacks.com/",
         "http://rsgb.org/",
+        "http://thefast800.com/",
         "http://www.bedfordshirehospitals.nhs.uk/",
-        "http://www.mkuh.nhs.uk/",
-        "http://www.shootinguk.co.uk/"
+        "http://www.mkuh.nhs.uk/"
       ],
       "errorSites": [
-        "http://washingtoncitypaper.com/"
+        "http://blackcitadelrpg.com/"
+      ]
+    },
+    "DE": {
+      "sites": 47,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.guertelrose-infektion.de/",
+        "http://www.pcffm.de/",
+        "http://journalistenwatch.com/",
+        "http://www.simon42.com/",
+        "http://echtsolar.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 442,
+      "errors": 1,
+      "selfTestFailures": 19,
+      "exampleSites": [
+        "http://seniorservicesofamerica.com/",
+        "http://www.fundsforngos.org/",
+        "http://theweatherstationexperts.com/",
+        "http://globalzonetoday.com/",
+        "http://xpressboats.com/"
+      ],
+      "failingSites": [
+        "http://www.dps.nm.gov/",
+        "http://firestickhacks.com/",
+        "http://yourinsurance.info/",
+        "http://waybackburgers.com/",
+        "http://razor.com/"
+      ],
+      "errorSites": [
+        "http://homeofcozy.com/"
       ]
     }
   },
@@ -77,47 +82,57 @@
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "Complianz notice": {
+    },
     "US": {
-      "sites": 57,
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.voya.com/",
-        "http://www.outdoorgearlab.com/",
-        "http://www.3m.com/",
-        "http://www.american.edu/",
-        "http://www.apmex.com/"
+        "http://online.colostate.edu/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "Complianz notice": {
+    "GB": {
+      "sites": 47,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://youtubemp3free.com/",
+        "http://www.thetalentmanager.com/",
+        "http://help.etsy.com/",
+        "http://www.ukgardensupplies.co.uk/",
+        "http://everymac.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
     "DE": {
-      "sites": 47,
+      "sites": 51,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://mainzer-fastnacht.de/",
-        "http://www.internisten-im-netz.de/",
+        "http://www.stremio.com/",
+        "http://www.matheboard.de/",
         "http://forum.blocktrainer.de/",
-        "http://forum.egosoft.com/",
-        "http://forum.freecad.org/"
+        "http://www.neurologen-und-psychiater-im-netz.org/",
+        "http://debianforum.de/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 42,
+    "US": {
+      "sites": 629,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.crazyoz.com/",
-        "http://www.petlist.co.uk/",
-        "http://help.etsy.com/",
-        "http://www.antiques-atlas.com/",
-        "http://www.auctionhouse.co.uk/"
+        "http://opencpn.org/",
+        "http://www.retrogames.cc/",
+        "http://speckyboy.com/",
+        "http://www.nku.edu/",
+        "http://www.hanselman.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -135,37 +150,29 @@
       "errorSites": [
         "http://www.spigen.com/"
       ]
+    },
+    "US": {
+      "sites": 36,
+      "errors": 34,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.spigen.com/",
+        "http://enfemmestyle.com/",
+        "http://sunriseflourmill.com/",
+        "http://www.roxy.com/",
+        "http://flipmylifenow.com/"
+      ],
+      "failingSites": [],
+      "errorSites": [
+        "http://treadlabs.com/",
+        "http://www.sixzeropickleball.com/",
+        "http://outofdarts.com/",
+        "http://villagehatshop.com/",
+        "http://sunriseflourmill.com/"
+      ]
     }
   },
   "Complianz opt-out": {
-    "US": {
-      "sites": 25,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.beallsflorida.com/",
-        "http://brokercheck.finra.org/",
-        "http://www.deltafaucet.com/",
-        "http://www.goodsam.com/",
-        "http://www.guitarcenter.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 15,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.jacob.de/",
-        "http://de.boardgamearena.com/",
-        "http://www.schaubuehne.de/",
-        "http://kress.de/",
-        "http://www.ktm-bikes.at/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 3,
       "errors": 0,
@@ -176,142 +183,195 @@
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "Complianz optin": {
-    "US": {
-      "sites": 7,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://shop.panasonic.com/",
-        "http://www.lionbrand.com/",
-        "http://www.ollies.com/",
-        "http://www.umcdiscipleship.org/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 37,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.landkreis-muenchen.de/",
-        "http://www.unimedizin-mainz.de/",
-        "http://www.dsb.de/",
-        "http://www.hilton.com/",
-        "http://www.kita-fachtexte.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 28,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.pinkbike.com/",
-        "http://jaycotts.co.uk/",
-        "http://www.hertz.co.uk/",
-        "http://www.kingstonandrichmond.nhs.uk/",
-        "http://www.lloydmotorgroup.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "Cookie Information Banner": {
-    "US": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.totaljerkface.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
     },
     "DE": {
       "sites": 14,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.hifiklubben.de/",
-        "http://esmark.de/",
-        "http://www.visitdenmark.de/",
-        "http://skylum.com/",
-        "http://www.nordicnest.de/"
+        "http://www.schaubuehne.de/",
+        "http://woom.com/",
+        "http://dokumente-online.com/",
+        "http://www.ktm-bikes.at/",
+        "http://www.dtv.de/"
       ],
       "failingSites": [],
       "errorSites": []
     },
+    "US": {
+      "sites": 160,
+      "errors": 1,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.ynhhs.org/",
+        "http://www.appfolio.com/",
+        "http://www.goodsam.com/",
+        "http://www.blackstone.com/",
+        "http://www.rvrentals.com/"
+      ],
+      "failingSites": [],
+      "errorSites": [
+        "http://www.irmaacertifiedplanner.com/"
+      ]
+    }
+  },
+  "Complianz optin": {
     "GB": {
-      "sites": 11,
+      "sites": 28,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.sinful.co.uk/",
-        "http://gb.ecco.com/",
-        "http://officialcarmats.co.uk/",
-        "http://petrolmap.co.uk/",
-        "http://www.westbrookcycles.co.uk/"
+        "http://www.hertz.co.uk/",
+        "http://snoap.com/",
+        "http://www.kingstonandrichmond.nhs.uk/",
+        "http://www.northerncarealliance.nhs.uk/",
+        "http://therokuchannel.roku.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 32,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.hilton.com/",
+        "http://www.dell.com/",
+        "http://www.kvb.koeln/",
+        "http://www.vorwahl-index.de/",
+        "http://www.deutschestheater.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 155,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://zzperformance.com/",
+        "http://state.1keydata.com/",
+        "http://www.cariuma.com/",
+        "http://tokyocentral.com/",
+        "http://www.roadid.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
-  "Cybotcookiebot": {
-    "US": {
-      "sites": 87,
+  "Cookie Information Banner": {
+    "GB": {
+      "sites": 10,
       "errors": 0,
-      "selfTestFailures": 2,
+      "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.insta360.com/",
-        "http://www.performancebike.com/",
-        "http://www.amainhobbies.com/",
-        "http://www.betterworldbooks.com/",
-        "http://www.dogfoodadvisor.com/"
+        "http://consumer.huawei.com/",
+        "http://www.nationaltoolhireshops.co.uk/",
+        "http://jysk.co.uk/",
+        "http://www.cashconverters.co.uk/",
+        "http://www.puregym.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 13,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.yogaeasy.de/",
+        "http://www.danfoss.com/",
+        "http://esmark.de/",
+        "http://www.ortovox.com/",
+        "http://www.deuter.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 56,
+      "errors": 1,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://www.petiteknit.com/",
+        "http://www.norrona.com/",
+        "http://thetourguy.com/",
+        "http://www.oatly.com/",
+        "http://powersource.danfoss.com/"
       ],
       "failingSites": [
-        "http://u24.gov.ua/",
-        "http://www.titleist.com/"
+        "http://www.hbkworld.com/"
+      ],
+      "errorSites": [
+        "http://broadwaydirect.com/"
+      ]
+    }
+  },
+  "Cybotcookiebot": {
+    "GB": {
+      "sites": 398,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://www.dobies.co.uk/",
+        "http://www.myhenry.com/",
+        "http://www.greeneking.co.uk/",
+        "http://sharkclean.co.uk/",
+        "http://www.timeshighereducation.com/"
+      ],
+      "failingSites": [
+        "http://www.waltons.co.uk/"
       ],
       "errorSites": []
     },
     "DE": {
-      "sites": 402,
+      "sites": 406,
       "errors": 0,
-      "selfTestFailures": 1,
+      "selfTestFailures": 2,
       "exampleSites": [
-        "http://www.medi.de/",
-        "http://www.kunstpark-shop.de/",
-        "http://www.ninjakitchen.de/",
-        "http://myablefy.com/",
-        "http://www.stadtwerke-muenster.de/"
+        "http://www.deutsches-krankenhaus-verzeichnis.de/",
+        "http://www.lexika.de/",
+        "http://www.foreno.de/",
+        "http://rechtschreibpruefung24.de/",
+        "http://www.sram.com/"
       ],
       "failingSites": [
-        "http://flowzz.com/"
+        "http://www.action.com/",
+        "http://www.easycredit-bbl.de/"
       ],
       "errorSites": []
     },
-    "GB": {
-      "sites": 389,
-      "errors": 1,
-      "selfTestFailures": 1,
+    "US": {
+      "sites": 1129,
+      "errors": 0,
+      "selfTestFailures": 7,
       "exampleSites": [
-        "http://www.northernrailway.co.uk/",
-        "http://www.metals4u.co.uk/",
-        "http://www.poferries.com/",
-        "http://ninjakitchen.co.uk/",
-        "http://www.twickets.live/"
+        "http://product-selection.grundfos.com/",
+        "http://www.salestaxinstitute.com/",
+        "http://stksteakhouse.com/",
+        "http://www.heritagepartscentre.com/",
+        "http://www.saab.com/"
       ],
       "failingSites": [
-        "http://www.tilegiant.co.uk/"
+        "http://webdesign.tutsplus.com/",
+        "http://resources.scrumalliance.org/",
+        "http://server.nitrado.net/",
+        "http://tangem.com/",
+        "http://titleist.com/"
       ],
-      "errorSites": [
-        "http://www.spacenk.com/"
-      ]
+      "errorSites": []
+    }
+  },
+  "Drupal": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://api.drupal.org/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "EU Cookie Law": {
@@ -325,43 +385,63 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "US": {
+      "sites": 9,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://factmyth.com/",
+        "http://www.nationalcharityleague.org/",
+        "http://stylishcravings.com/",
+        "http://www.martinsmagic.com/",
+        "http://www.pv-magazine.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "EZoic": {
-    "US": {
-      "sites": 1,
+    "GB": {
+      "sites": 91,
       "errors": 0,
-      "selfTestFailures": 0,
+      "selfTestFailures": 1,
       "exampleSites": [
-        "http://www.electrical4u.com/"
+        "http://www.dealdrop.com/",
+        "http://www.aconsciousrethink.com/",
+        "http://www.stampdutycalculator.org.uk/",
+        "http://www.colorwithleo.com/",
+        "http://britishrecipesbook.co.uk/"
       ],
-      "failingSites": [],
+      "failingSites": [
+        "http://britishrecipesbook.co.uk/"
+      ],
       "errorSites": []
     },
     "DE": {
-      "sites": 68,
+      "sites": 69,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.geschichten-haus.com/",
-        "http://survivalmesserguide.de/",
-        "http://www.klimatabelle.de/",
-        "http://www.medizinfo.de/",
-        "http://installati.one/"
+        "http://www.thecalculatorsite.com/",
+        "http://www.neueroeffnung.info/",
+        "http://itigic.com/",
+        "http://www.scamadviser.com/",
+        "http://fachwort24.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 90,
+    "US": {
+      "sites": 8,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://thesuncrosswordanswers.co.uk/",
-        "http://www.stampdutycalculator.org.uk/",
-        "http://windowsloop.com/",
-        "http://www.35mmc.com/",
-        "http://emojis.wiki/"
+        "http://casualnavigation.com/",
+        "http://www.seniorcouch.com/",
+        "http://hvaclaboratory.com/",
+        "http://www.electrical4u.com/",
+        "http://yourmeatguide.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -379,19 +459,33 @@
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "Ensighten ensNotifyBanner": {
+    },
     "US": {
-      "sites": 12,
+      "sites": 5,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.vw.com/",
-        "http://lifelock.norton.com/",
-        "http://us.norton.com/",
-        "http://www.bhphotovideo.com/",
-        "http://www.britishairways.com/"
+        "http://www.audi.com/",
+        "http://www.fashionisland.com/",
+        "http://www.irvinecompanyapartments.com/",
+        "http://www.irvinespectrumcenter.com/",
+        "http://www.zoll.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "Ensighten ensNotifyBanner": {
+    "GB": {
+      "sites": 32,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.britishairways.com/",
+        "http://travelodge.co.uk/",
+        "http://www.equifax.co.uk/",
+        "http://www.volkswagen.co.uk/",
+        "http://uk.norton.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -410,435 +504,32 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 31,
-      "errors": 1,
+    "US": {
+      "sites": 55,
+      "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.rac.co.uk/",
-        "http://flywith.virginatlantic.com/",
-        "http://www.britishairways.com/",
-        "http://www.experian.co.uk/",
-        "http://www.fidelity.co.uk/"
+        "http://www.storage.com/",
+        "http://www.redwingshoes.com/",
+        "http://sherlink2.sherwin.com/",
+        "http://www.selfstorage.com/",
+        "http://lifelock.norton.com/"
       ],
       "failingSites": [],
-      "errorSites": [
-        "http://www.spacenk.com/"
-      ]
+      "errorSites": []
     }
   },
   "Evidon": {
-    "US": {
-      "sites": 5,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://login.computershare.com/",
-        "http://www-us.computershare.com/",
-        "http://www.amwater.com/",
-        "http://www.computershare.com/",
-        "http://www.lenovo.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 7,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.playstation.com/",
-        "http://sports.tipico.com/",
-        "http://store.playstation.com/",
-        "http://www.canon-europe.com/",
-        "http://www.canon.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 15,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.calor.co.uk/",
-        "http://boards.cruisecritic.co.uk/",
-        "http://www.holidaylettings.co.uk/",
-        "http://devforum.roblox.com/",
-        "http://www.canon.co.uk/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "Klaro": {
-    "US": {
-      "sites": 3,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://forums.debian.net/",
-        "http://www.gianteagle.com/",
-        "http://www.umb.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 65,
-      "errors": 0,
-      "selfTestFailures": 5,
-      "exampleSites": [
-        "http://www.pcspezialist.de/",
-        "http://www.implantate.com/",
-        "http://www.spain.info/",
-        "http://www.stummiforum.de/",
-        "http://www.beckhoff.com/"
-      ],
-      "failingSites": [
-        "http://meinmacher.com/",
-        "http://senec.com/",
-        "http://wogibtswas.de/",
-        "http://www.avery-zweckform.com/",
-        "http://www.wuerzburg.de/"
-      ],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 5,
-      "errors": 0,
-      "selfTestFailures": 1,
-      "exampleSites": [
-        "http://forums.debian.net/",
-        "http://simplyseaviews.co.uk/",
-        "http://www.avery.co.uk/",
-        "http://www.barbican.org.uk/",
-        "http://www.spain.info/"
-      ],
-      "failingSites": [
-        "http://www.avery.co.uk/"
-      ],
-      "errorSites": []
-    }
-  },
-  "Mediavine": {
-    "DE": {
-      "sites": 74,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.gamerguides.com/",
-        "http://randomnerdtutorials.com/",
-        "http://www.macobserver.com/",
-        "http://www.ncesc.com/",
-        "http://ihrweg.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 219,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://hellomusictheory.com/",
-        "http://www.gta5-mods.com/",
-        "http://insanelygoodrecipes.com/",
-        "http://ioshacker.com/",
-        "http://tvshowstars.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "Moove": {
-    "US": {
-      "sites": 12,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.seymourduncan.com/",
-        "http://iscrapapp.com/",
-        "http://machow2.com/",
-        "http://www.cbinsights.com/",
-        "http://www.henryusa.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 5,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://machow2.com/",
-        "http://windowsarea.de/",
-        "http://www.mwgfd.org/",
-        "http://www.wahlumfrage.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 9,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.goonhammer.com/",
-        "http://hoa.org.uk/",
-        "http://machow2.com/",
-        "http://skygarden.london/",
-        "http://the-ear.net/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "Onetrust": {
-    "US": {
-      "sites": 1334,
-      "errors": 0,
-      "selfTestFailures": 165,
-      "exampleSites": [
-        "http://www.avalara.com/",
-        "http://www.all-clad.com/",
-        "http://www.boeing.com/",
-        "http://www.rci.com/",
-        "http://www.cvs.com/"
-      ],
-      "failingSites": [
-        "http://www.newsday.com/",
-        "http://www.jdpower.com/",
-        "http://www.oddsportal.com/",
-        "http://www.lifetime.life/",
-        "http://www.1011now.com/"
-      ],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 786,
-      "errors": 0,
-      "selfTestFailures": 76,
-      "exampleSites": [
-        "http://www.acronis.com/",
-        "http://swappie.com/",
-        "http://www.answers.com/",
-        "http://www.redbull.com/",
-        "http://www.coingecko.com/"
-      ],
-      "failingSites": [
-        "http://www.asics.com/",
-        "http://mashable.com/",
-        "http://www.flashscore.de/",
-        "http://www.baur.de/",
-        "http://www.heine.de/"
-      ],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 1643,
-      "errors": 1,
-      "selfTestFailures": 121,
-      "exampleSites": [
-        "http://www.robertsradio.com/",
-        "http://landsend.co.uk/",
-        "http://www.eurocarparts.com/",
-        "http://www.britishnewspaperarchive.co.uk/",
-        "http://www.rentokil.co.uk/"
-      ],
-      "failingSites": [
-        "http://www.today.com/",
-        "http://www.picturehouses.com/",
-        "http://www.very.co.uk/",
-        "http://www.sadlerswells.com/",
-        "http://uk.pcmag.com/"
-      ],
-      "errorSites": [
-        "http://www.atlasobscura.com/"
-      ]
-    }
-  },
-  "PrimeBox CookieBar": {
-    "US": {
-      "sites": 2,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.bookbrowse.com/",
-        "http://www.lockheedmartin.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 6,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.wellensteyn.com/",
-        "http://www.buchfreund.de/",
-        "http://www.hautschutzengel.de/",
-        "http://www.vfb.de/",
-        "http://www.weimar.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 6,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.northlanarkshire.gov.uk/",
-        "http://www.courtserve.net/",
-        "http://www.find-my-doctor.co.uk/",
-        "http://www.homipi.co.uk/",
-        "http://www.j2ski.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "Sirdata": {
-    "US": {
-      "sites": 2,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.ibtimes.co.uk/",
-        "http://www.ibtimes.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 9,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.zurucksetzen.de/",
-        "http://wietipptman.com/",
-        "http://www.dafont.com/",
-        "http://www.free-scores.com/",
-        "http://www.gebraucht-kaufen.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 9,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.ibtimes.com/",
-        "http://cineuropa.org/",
-        "http://gizmodo.com/",
-        "http://www.dafont.com/",
-        "http://www.expat.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "Sourcepoint-frame": {
-    "US": {
-      "sites": 7,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.theguardian.com/",
-        "http://www.formula1.com/",
-        "http://www.ft.com/",
-        "http://www.politico.eu/",
-        "http://www.radiotimes.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 212,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.ksta.de/",
-        "http://www.vrt.be/",
-        "http://www.mz.de/",
-        "http://www.noz.de/",
-        "http://traueranzeigen.noz.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 170,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.echo-news.co.uk/",
-        "http://www.yorkpress.co.uk/",
-        "http://www.evo.co.uk/",
-        "http://www.falmouthpacket.co.uk/",
-        "http://www.theguardian.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "Tealium": {
-    "US": {
-      "sites": 17,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.jacquielawson.com/",
-        "http://www.americangreetings.com/",
-        "http://www.otterbox.com/",
-        "http://www.swiss.com/",
-        "http://www.ups.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 32,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.mainova.de/",
-        "http://dsl.1und1.de/",
-        "http://www.avis.de/",
-        "http://www.discover-airlines.com/",
-        "http://www.dws.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 52,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.virgingames.com/",
-        "http://www.lufthansa.com/",
-        "http://tuclothing.sainsburys.co.uk/",
-        "http://www.avis.co.uk/",
-        "http://www.barclaycard.co.uk/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "Termly": {
-    "US": {
-      "sites": 22,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.provenwinners.com/",
-        "http://auburntigers.com/",
-        "http://virginiasports.com/",
-        "http://www.gardeners.com/",
-        "http://www.igeeksblog.com/"
+        "http://www.motorola.co.uk/",
+        "http://www.atgtickets.com/",
+        "http://www.udiscovermusic.com/",
+        "http://www.computershare.com/",
+        "http://www.bigfishgames.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -848,85 +539,513 @@
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.daz3d.com/",
-        "http://starwalk.space/",
-        "http://www.alamy.com/",
-        "http://www.alamy.de/",
-        "http://www.anyviewer.com/"
+        "http://devforum.roblox.com/",
+        "http://www.motorola.de/",
+        "http://store.playstation.com/",
+        "http://www.mcafee.com/",
+        "http://www.playstation.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 44,
+    "US": {
+      "sites": 70,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.coolstays.com/",
-        "http://www.snappysnaps.co.uk/",
-        "http://www.ashridgetrees.co.uk/",
+        "http://www.udiscovermusic.com/",
+        "http://www.polarispool.com/",
+        "http://us.motorola.com/",
+        "http://www.shoreunitedbank.com/",
+        "http://lenovo.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "Klaro": {
+    "GB": {
+      "sites": 5,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://simplyseaviews.co.uk/",
+        "http://www.avery.co.uk/",
+        "http://www.barbican.org.uk/",
+        "http://www.dudley.gov.uk/",
+        "http://www.spain.info/"
+      ],
+      "failingSites": [
+        "http://www.avery.co.uk/"
+      ],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 62,
+      "errors": 0,
+      "selfTestFailures": 4,
+      "exampleSites": [
+        "http://www.nachdenkseiten.de/",
+        "http://www.umweltbundesamt.de/",
+        "http://www.bamberg.info/",
+        "http://www.leuphana.de/",
+        "http://scheppach.com/"
+      ],
+      "failingSites": [
+        "http://meinmacher.com/",
+        "http://wogibtswas.de/",
+        "http://www.avery-zweckform.com/",
+        "http://www.wuerzburg.de/"
+      ],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 34,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://vtechworks.lib.vt.edu/",
+        "http://fightthenewdrug.org/",
+        "http://www.barbican.org.uk/",
+        "http://www.ternbicycles.com/",
+        "http://hrdailyadvisor.blr.com/"
+      ],
+      "failingSites": [
+        "http://www.ovationguitars.com/"
+      ],
+      "errorSites": []
+    }
+  },
+  "Mediavine": {
+    "GB": {
+      "sites": 209,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.gamerguides.com/",
+        "http://macissues.com/",
+        "http://www.pyracantha.co.uk/",
+        "http://medshun.com/",
+        "http://wildlifeinformer.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 76,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.schreiben.net/",
+        "http://www.matthiashaltenhof.de/",
+        "http://happyhunde.de/",
+        "http://www.perspektiveausland.com/",
+        "http://edhrec.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "Moove": {
+    "GB": {
+      "sites": 8,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://basc.org.uk/",
+        "http://www.nhslanarkshire.scot.nhs.uk/",
+        "http://machow2.com/",
+        "http://www.goonhammer.com/",
+        "http://the-ear.net/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 4,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://augengeradeaus.net/",
+        "http://machow2.com/",
+        "http://windowsarea.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 184,
+      "errors": 1,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://thefemedic.com/",
+        "http://squirreluniversity.com/",
+        "http://www.charleys.com/",
+        "http://the1a.org/",
+        "http://www.seymourduncan.com/"
+      ],
+      "failingSites": [
+        "http://www.realityproject.net/"
+      ],
+      "errorSites": [
+        "http://www.irmaacertifiedplanner.com/"
+      ]
+    }
+  },
+  "Onetrust": {
+    "GB": {
+      "sites": 1648,
+      "errors": 0,
+      "selfTestFailures": 126,
+      "exampleSites": [
+        "http://www.zdnet.com/",
+        "http://www.brooksrunning.com/",
+        "http://fulltime.thefa.com/",
+        "http://travel.stackexchange.com/",
+        "http://www.domesticandgeneral.com/"
+      ],
+      "failingSites": [
+        "http://www.chess.com/",
+        "http://ashpublications.org/",
+        "http://open.spotify.com/",
+        "http://www.skybet.com/",
+        "http://www.almanac.com/"
+      ],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 794,
+      "errors": 0,
+      "selfTestFailures": 80,
+      "exampleSites": [
+        "http://gis.stackexchange.com/",
+        "http://www.oralb.de/",
+        "http://marketplace.atlassian.com/",
+        "http://www.fairphone.com/",
+        "http://www.usz.ch/"
+      ],
+      "failingSites": [
+        "http://www.msnbc.com/",
+        "http://community.spiceworks.com/",
+        "http://www.baur.de/",
+        "http://www.nbcnews.com/",
+        "http://www.honda.de/"
+      ],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 7315,
+      "errors": 0,
+      "selfTestFailures": 979,
+      "exampleSites": [
+        "http://www.mwe.com/",
+        "http://www.mcintoshlabs.com/",
+        "http://www.speakeasy.net/",
+        "http://www.fcsamerica.com/",
+        "http://holley.com/"
+      ],
+      "failingSites": [
+        "http://www.clinicaltrialsarena.com/",
+        "http://yourhome.fanniemae.com/",
+        "http://myaccount.ingramspark.com/",
+        "http://weedman.com/",
+        "http://www.hyattvacationclub.com/"
+      ],
+      "errorSites": []
+    }
+  },
+  "PrimeBox CookieBar": {
+    "GB": {
+      "sites": 8,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.churchtimes.co.uk/",
+        "http://www.patient-services.co.uk/",
+        "http://www.find-my-doctor.co.uk/",
+        "http://www.northlanarkshire.gov.uk/",
+        "http://www.rctcbc.gov.uk/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 5,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://odir.org/",
+        "http://www.buchfreund.de/",
+        "http://www.hautschutzengel.de/",
+        "http://www.vfb.de/",
+        "http://www.weimar.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 17,
+      "errors": 1,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.lockheedmartin.com/",
+        "http://us.virbac.com/",
+        "http://www.minelab.com/",
+        "http://www.historicalemporium.com/",
+        "http://www.annualreviews.org/"
+      ],
+      "failingSites": [],
+      "errorSites": [
+        "http://www.wantedinrome.com/"
+      ]
+    }
+  },
+  "Sirdata": {
+    "GB": {
+      "sites": 10,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://aleteia.org/",
+        "http://www.for-sale.co.uk/",
+        "http://gizmodo.com/",
+        "http://www.expat.com/",
+        "http://www.free-scores.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 10,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://de.moyens.net/",
+        "http://www.goldgoblin.net/",
+        "http://www.betaseries.com/",
+        "http://www.gebraucht-kaufen.de/",
+        "http://www.infobel.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 6,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.ibtimes.co.uk/",
+        "http://www.ibtimes.com/",
+        "http://www.latintimes.com/",
+        "http://www.used.forsale/",
+        "http://www.player.one/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "Sourcepoint-frame": {
+    "GB": {
+      "sites": 171,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.whatsthebest.co.uk/",
+        "http://www.ftadviser.com/",
+        "http://www.lep.co.uk/",
+        "http://www.gazetteandherald.co.uk/",
+        "http://www.swindonadvertiser.co.uk/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 208,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.shz.de/",
+        "http://www.politico.eu/",
+        "http://www.zvw.de/",
+        "http://www.rtl.de/",
+        "http://preisvergleich.heise.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 43,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.duden.de/",
+        "http://studyflix.de/",
+        "http://www.formula1.com/",
+        "http://www.lepoint.fr/",
+        "http://support.formula1.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "Tealium": {
+    "GB": {
+      "sites": 53,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.swiss.com/",
+        "http://www.parcelforce.com/",
+        "http://www.argos.co.uk/",
+        "http://www.penguinrandomhouse.com/",
+        "http://parcel.royalmail.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 35,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://www.ups.com/",
+        "http://mobile.1und1.de/",
+        "http://www.barmer.de/",
+        "http://www.ti.com/",
+        "http://shopseite.telekom.de/"
+      ],
+      "failingSites": [
+        "http://www.tui.com/"
+      ],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 98,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.maggianos.com/",
+        "http://www.illy.com/",
+        "http://www.physiciansregional.com/",
+        "http://www.lifeproof.com/",
+        "http://oakley.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "Termly": {
+    "GB": {
+      "sites": 42,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.streetmap.co.uk/",
+        "http://www.tooled-up.com/",
         "http://www.boomradiouk.com/",
-        "http://www.bristol.ac.uk/"
+        "http://www.water.org.uk/",
+        "http://www.alamy.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 10,
+      "errors": 1,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ipinfo.io/",
+        "http://www.euractiv.de/",
+        "http://starwalk.space/",
+        "http://www.daz3d.com/",
+        "http://www.alamy.de/"
+      ],
+      "failingSites": [],
+      "errorSites": [
+        "http://minecraft.novaskin.me/"
+      ]
+    },
+    "US": {
+      "sites": 289,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.bristol.ac.uk/",
+        "http://www.wfcotech.com/",
+        "http://www.gmc.edu/",
+        "http://kyhorsepark.com/",
+        "http://www.aiphone.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "TrustArc-top": {
-    "US": {
-      "sites": 57,
+    "GB": {
+      "sites": 58,
       "errors": 0,
-      "selfTestFailures": 5,
+      "selfTestFailures": 2,
       "exampleSites": [
-        "http://www.support.xerox.com/",
-        "http://www.ihg.com/",
-        "http://www.weareteachers.com/",
-        "http://www.anixter.com/",
-        "http://www.century21.com/"
+        "http://www.sagasavings.co.uk/",
+        "http://www8.garmin.com/",
+        "http://support-en.wd.com/",
+        "http://www.oneplus.com/",
+        "http://forums.ea.com/"
       ],
       "failingSites": [
-        "http://www.curtmfg.com/",
-        "http://www.freestyle.abbott/",
-        "http://www.macu.com/",
-        "http://www.pureformulas.com/",
-        "http://www.weareteachers.com/"
+        "http://community.screwfix.com/",
+        "http://www.browserstack.com/"
       ],
       "errorSites": []
     },
     "DE": {
-      "sites": 40,
+      "sites": 41,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.citrix.com/",
         "http://www.samsung.com/",
+        "http://www.westerndigital.com/",
         "http://shop.sandisk.com/",
-        "http://support.sap.com/",
-        "http://userapps.support.sap.com/"
+        "http://www8.garmin.com/",
+        "http://eu.community.samsung.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 61,
+    "US": {
+      "sites": 359,
       "errors": 0,
-      "selfTestFailures": 3,
+      "selfTestFailures": 51,
       "exampleSites": [
-        "http://www.samsung.com/",
-        "http://www.freestyle.abbott/",
-        "http://www.support.xerox.com/",
-        "http://www.thermofisher.com/",
-        "http://support.garmin.com/"
+        "http://www.cellphonerepair.com/",
+        "http://www.mindbodyonline.com/",
+        "http://www.elanco.com/",
+        "http://locations.happyreturns.com/",
+        "http://www.ul.com/"
       ],
       "failingSites": [
-        "http://community.screwfix.com/",
-        "http://www.browserstack.com/",
-        "http://www.freestyle.abbott/"
+        "http://www.wish.com/",
+        "http://academiccalendar.byu.edu/",
+        "http://www.globalpointofcare.abbott/",
+        "http://www.macu.com/",
+        "http://www.norwex.com/"
       ],
       "errorSites": []
     }
   },
   "UK Cookie Consent": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://www.markpack.org.uk/"
+      ],
+      "failingSites": [
+        "http://www.markpack.org.uk/"
+      ],
+      "errorSites": []
+    },
     "DE": {
       "sites": 1,
       "errors": 0,
@@ -937,45 +1056,63 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 2,
+    "US": {
+      "sites": 7,
       "errors": 0,
-      "selfTestFailures": 1,
+      "selfTestFailures": 2,
       "exampleSites": [
-        "http://blogs.lse.ac.uk/",
-        "http://www.markpack.org.uk/"
+        "http://coldsorescured.com/",
+        "http://www.verifiedmarketresearch.com/",
+        "http://siliconangle.com/",
+        "http://www.thereloadersnetwork.com/",
+        "http://www.emeraldpalate.com/"
       ],
       "failingSites": [
-        "http://www.markpack.org.uk/"
+        "http://naturalon.com/",
+        "http://siliconangle.com/"
       ],
       "errorSites": []
     }
   },
   "Uniconsent": {
-    "DE": {
-      "sites": 9,
+    "GB": {
+      "sites": 15,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://www.ruck.co.uk/",
+        "http://www.gsmarena.com/",
         "http://www.speedguide.net/",
-        "http://musikguru.de/",
-        "http://www.germany-visa.org/",
-        "http://www.gesund-vital.de/",
-        "http://www.gsmarena.com/"
+        "http://www.programiz.com/",
+        "http://www.loverugbyleague.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 16,
+    "DE": {
+      "sites": 10,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.planetf1.com/",
-        "http://uk.lycoschat.com/",
-        "http://www.ruck.co.uk/",
-        "http://zaubee.com/",
+        "http://allergiefreie-allergiker.de/",
+        "http://www.offen.net/",
+        "http://musikguru.de/",
+        "http://www.gsmarena.com/",
         "http://www.programiz.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 8,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://bleedingfool.com/",
+        "http://www.phentermine.com/",
+        "http://texblog.org/",
+        "http://www.e-ir.info/",
+        "http://www.simplycookingrecipes.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -991,52 +1128,55 @@
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "WP DSGVO Tools": {
-    "DE": {
-      "sites": 1,
+    },
+    "US": {
+      "sites": 5,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://starthardware.org/"
+        "http://circuitoftheamericas.com/",
+        "http://livebh.com/",
+        "http://www.cranetrust.org/",
+        "http://www.firstinarchitecture.co.uk/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "Yahoo": {
-    "US": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://uk.news.yahoo.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 5,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://de.nachrichten.yahoo.com/",
-        "http://de.yahoo.com/",
-        "http://finance.yahoo.com/",
-        "http://www.aol.de/",
-        "http://www.yahoo.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 9,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://finance.yahoo.com/",
+        "http://www.aol.co.uk/",
+        "http://uk.finance.yahoo.com/",
+        "http://uk.yahoo.com/",
+        "http://www.aol.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 6,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://de.finance.yahoo.com/",
+        "http://de.nachrichten.yahoo.com/",
+        "http://de.yahoo.com/",
         "http://www.yahoo.com/",
-        "http://help.yahoo.com/",
+        "http://www.aol.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
         "http://uk.finance.yahoo.com/",
         "http://uk.news.yahoo.com/",
         "http://uk.style.yahoo.com/"
@@ -1047,21 +1187,15 @@
   },
   "aa": {
     "US": {
-      "sites": 1,
+      "sites": 5,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.aa.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.aa.com/"
+        "http://aa.com/",
+        "http://www.aa.com.do/",
+        "http://www.aa.com/",
+        "http://www.aacargo.com/",
+        "http://www.aavacations.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -1069,22 +1203,44 @@
   },
   "acris": {
     "DE": {
-      "sites": 9,
+      "sites": 10,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.roesle.com/",
-        "http://ersatzteilshop.de/",
+        "http://bikebox-shop.de/",
+        "http://www.ersatzteilshop.de/",
         "http://sallys-blog.de/",
-        "http://www.arctic.de/",
-        "http://www.baer-schuhe.de/"
+        "http://www.bresser.de/",
+        "http://www.kiepenkerl.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.arctic.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "acs.org": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.acs.org/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "adultfriendfinder": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1094,7 +1250,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1106,26 +1262,6 @@
     }
   },
   "affinity.serif.com": {
-    "US": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://affinity.serif.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://affinity.serif.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 1,
       "errors": 0,
@@ -1135,19 +1271,30 @@
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "airbnb": {
+    },
     "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.airbnb.de/"
+        "http://affinity.serif.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
+    "US": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://affinity.serif.com/",
+        "http://affinityspotlight.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "airbnb": {
     "GB": {
       "sites": 2,
       "errors": 0,
@@ -1158,9 +1305,55 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.airbnb.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.airbnb.ca/",
+        "http://www.airbnb.co.uk/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "alaskaair": {
+    "US": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://alaskaair.com/",
+        "http://reservations.alaskaair.com/",
+        "http://www.alaskaair.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "aliexpress": {
+    "GB": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://aliexpress.com/",
+        "http://www.aliexpress.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "DE": {
       "sites": 3,
       "errors": 0,
@@ -1168,17 +1361,6 @@
       "exampleSites": [
         "http://aliexpress.com/",
         "http://de.aliexpress.com/",
-        "http://www.aliexpress.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 2,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://aliexpress.com/",
         "http://www.aliexpress.com/"
       ],
       "failingSites": [],
@@ -1197,8 +1379,41 @@
       "errorSites": []
     }
   },
-  "amex": {
+  "amazon.com": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.amazon.co.uk/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.amazon.it/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.amazon.com.be/",
+        "http://www.amazon.es/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "amex": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1208,7 +1423,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1220,7 +1435,7 @@
     }
   },
   "anthropic": {
-    "DE": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1230,7 +1445,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1243,15 +1458,15 @@
   },
   "aquasana.com": {
     "US": {
-      "sites": 5,
+      "sites": 28,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.dunhamssports.com/",
-        "http://www.horizonhobby.com/",
-        "http://www.hpb.com/",
         "http://www.johnnyseeds.com/",
-        "http://www.martinguitar.com/"
+        "http://www.dunhamssports.com/",
+        "http://www.martinguitar.com/",
+        "http://www.shoplc.com/",
+        "http://www.e-fliterc.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -1272,11 +1487,12 @@
     }
   },
   "asus": {
-    "US": {
-      "sites": 1,
+    "GB": {
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://rog.asus.com/",
         "http://www.asus.com/"
       ],
       "failingSites": [],
@@ -1287,25 +1503,38 @@
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://asus.com/",
+        "http://rog.asus.com/",
         "http://www.asus.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 1,
+    "US": {
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://rog.asus.com/",
         "http://www.asus.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
+  "athlinks-com": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.athlinks.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
   "automattic-cmp-optout": {
-    "DE": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1315,7 +1544,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1327,11 +1556,14 @@
     }
   },
   "aws.amazon.com": {
-    "US": {
-      "sites": 4,
+    "GB": {
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
-      "exampleSites": [],
+      "exampleSites": [
+        "http://aws.amazon.com/",
+        "http://docs.aws.amazon.com/"
+      ],
       "failingSites": [],
       "errorSites": []
     },
@@ -1347,27 +1579,80 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 3,
+    "US": {
+      "sites": 14,
       "errors": 0,
       "selfTestFailures": 0,
-      "exampleSites": [
-        "http://aws.amazon.com/",
-        "http://docs.aws.amazon.com/",
-        "http://repost.aws/"
-      ],
+      "exampleSites": [],
       "failingSites": [],
       "errorSites": []
     }
   },
   "axeptio": {
     "DE": {
-      "sites": 2,
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://karneval-megastore.de/",
         "http://www.karneval-megastore.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 15,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.serengeti-eyewear.com/",
+        "http://www.dxo.com/",
+        "http://www.welcometothejungle.com/",
+        "http://www.motul.com/",
+        "http://www.lookcycle.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "b-cookie": {
+    "GB": {
+      "sites": 7,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.boy18tube.com/",
+        "http://www.xgaytube.tv/",
+        "http://www.icegay.tv/",
+        "http://www.verygayboys.com/",
+        "http://www.trannytube.tv/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 12,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://4kpornvideos.tv/",
+        "http://www.icegay.tv/",
+        "http://www.gaymaletube.name/",
+        "http://www.verygayboys.com/",
+        "http://www.icegaytube.tv/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 32,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.goldgay.tv/",
+        "http://www.gayfuckporn.tv/",
+        "http://www.icegay.tv/",
+        "http://www.xgaytube.tv/",
+        "http://www.gaymaletube.name/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -1375,31 +1660,21 @@
   },
   "baden-wuerttemberg.de": {
     "DE": {
-      "sites": 8,
+      "sites": 5,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://um.baden-wuerttemberg.de/",
         "http://finanzamt-bw.fv-bwl.de/",
-        "http://im.baden-wuerttemberg.de/",
         "http://km.baden-wuerttemberg.de/",
-        "http://lehrer-online-bw.de/"
+        "http://sozialministerium.baden-wuerttemberg.de/",
+        "http://um.baden-wuerttemberg.de/",
+        "http://www.baden-wuerttemberg.de/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "bahn-de": {
-    "DE": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.bahn.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 1,
       "errors": 0,
@@ -1409,19 +1684,89 @@
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "bing.com": {
+    },
     "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.bing.com/"
+        "http://www.bahn.de/"
       ],
       "failingSites": [],
       "errorSites": []
     },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.bahn.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "bbb.org": {
+    "GB": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 11,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.bbb.org/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "bigcommerce-consent-manager": {
+    "GB": {
+      "sites": 13,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ebac.com/",
+        "http://www.philipmorrisdirect.co.uk/",
+        "http://heinnie.com/",
+        "http://www.drapertools.com/",
+        "http://www.rohan.co.uk/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://germany.muji.eu/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 194,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.griotsgarage.com/",
+        "http://huxwrx.com/",
+        "http://www.uprproducts.com/",
+        "http://italianfirearmsgroup.com/",
+        "http://viktos.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "bing.com": {
     "GB": {
       "sites": 2,
       "errors": 0,
@@ -1432,35 +1777,86 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.bing.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "blocksy": {
+    "US": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://evolutionelectricvehicle.com/",
+        "http://howdoihomeschool.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "borlabs": {
-    "DE": {
-      "sites": 156,
-      "errors": 0,
-      "selfTestFailures": 10,
-      "exampleSites": [
-        "http://report24.news/",
-        "http://www.zahlungsmittel.org/",
-        "http://tabakstore.de/",
-        "http://technikkram.net/",
-        "http://www.navigation-professionell.de/"
-      ],
-      "failingSites": [
-        "http://infothek-gesundheit.de/",
-        "http://raddeluxe.com/",
-        "http://www.apfeltalk.de/",
-        "http://seoschmiede.at/",
-        "http://www.simplegermany.com/"
-      ],
-      "errorSites": []
-    },
     "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
         "http://www.gearnews.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 160,
+      "errors": 0,
+      "selfTestFailures": 13,
+      "exampleSites": [
+        "http://www.radsport-rennrad.de/",
+        "http://tabakstore.de/",
+        "http://www.brokerexperte.de/",
+        "http://ueberweisungsheld.de/",
+        "http://www.juhn.com/"
+      ],
+      "failingSites": [
+        "http://www.ra-kotz.de/",
+        "http://mal-alt-werden.de/",
+        "http://meingesundheitsbuch.de/",
+        "http://www.bonedo.de/",
+        "http://tech-aktuell.de/"
+      ],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 10,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://bushhog.com/",
+        "http://nektartech.com/",
+        "http://enduro-mtb.com/",
+        "http://harleybenton.com/",
+        "http://www.gearnews.com/"
+      ],
+      "failingSites": [
+        "http://expatrist.com/"
+      ],
+      "errorSites": []
+    }
+  },
+  "britannica-kids": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://kids.britannica.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -1480,11 +1876,10 @@
   },
   "bundesregierung.de": {
     "DE": {
-      "sites": 2,
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.bundeskanzler.de/",
         "http://www.bundesregierung.de/"
       ],
       "failingSites": [],
@@ -1492,16 +1887,16 @@
     }
   },
   "burpee.com": {
-    "US": {
-      "sites": 5,
+    "GB": {
+      "sites": 17,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.burpee.com/",
-        "http://www.knfilters.com/",
-        "http://www.mossberg.com/",
-        "http://www.nosler.com/",
-        "http://www.omegawatches.com/"
+        "http://www.sosandar.com/",
+        "http://www.fishkeeper.co.uk/",
+        "http://www.awd-it.co.uk/",
+        "http://www.omegawatches.com/",
+        "http://www.hamradio.co.uk/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -1516,23 +1911,23 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 16,
+    "US": {
+      "sites": 81,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.hobbies.co.uk/",
-        "http://shedstore.co.uk/",
-        "http://www.shedstore.co.uk/",
-        "http://www.bmgardenbuildings.co.uk/",
-        "http://www.justlawnmowers.co.uk/"
+        "http://www.taylorsfirearms.com/",
+        "http://www.silhouetteamerica.com/",
+        "http://www.allinonepaint.com/",
+        "http://www.spsco.com/",
+        "http://rev-a-shelf.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "canva.com": {
-    "DE": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1542,7 +1937,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1554,13 +1949,16 @@
     }
   },
   "cassie": {
-    "US": {
-      "sites": 2,
+    "GB": {
+      "sites": 7,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.mskcc.org/",
-        "http://zepbound.lilly.com/"
+        "http://www.dfds.com/",
+        "http://www5.open.ac.uk/",
+        "http://www.itv.com/",
+        "http://www.rnib.org.uk/",
+        "http://www.open.edu/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -1575,23 +1973,23 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 8,
+    "US": {
+      "sites": 12,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.trustford.co.uk/",
-        "http://www.durham.gov.uk/",
-        "http://www.itv.com/",
-        "http://www.open.ac.uk/",
-        "http://www.open.edu/"
+        "http://lillydirect.lilly.com/",
+        "http://www.mskcc.org/",
+        "http://tirzepatide.lilly.com/",
+        "http://www.lilly.com/",
+        "http://www.open.ac.uk/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "cc-banner-springer": {
-    "US": {
+    "GB": {
       "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1613,29 +2011,32 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 2,
+    "US": {
+      "sites": 14,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://link.springer.com/",
-        "http://www.nature.com/"
+        "http://www.researchsquare.com/",
+        "http://bmcpublichealth.biomedcentral.com/",
+        "http://bmcgastroenterol.biomedcentral.com/",
+        "http://www.cureus.com/",
+        "http://genomebiology.biomedcentral.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "cc_banner": {
-    "US": {
-      "sites": 8,
+    "GB": {
+      "sites": 16,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.umass.edu/",
-        "http://govsalaries.com/",
-        "http://nytminicrossword.com/",
-        "http://orteil.dashnet.org/",
-        "http://www.fantasynamegenerators.com/"
+        "http://www.w3resource.com/",
+        "http://peco-uk.com/",
+        "http://yachts.apolloduck.co.uk/",
+        "http://www.thegooddogguide.com/",
+        "http://retropie.org.uk/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -1645,73 +2046,72 @@
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.fantasynamegenerators.com/",
-        "http://board.jdownloader.org/",
+        "http://www.regierung-mv.de/",
+        "http://www.bht-berlin.de/",
+        "http://www.semperoper.de/",
         "http://www.lumedis.de/",
-        "http://www.schule-bw.de/",
-        "http://www.semperoper.de/"
+        "http://www.de-bedienungsanleitung.de/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 15,
+    "US": {
+      "sites": 81,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.fantasynamegenerators.com/",
-        "http://gamcore.com/",
-        "http://www.walkhighlands.co.uk/",
-        "http://meetyou.me/",
-        "http://www.ukcampsite.co.uk/"
+        "http://www.seniorlivingguide.com/",
+        "http://www.mwra.com/",
+        "http://www.watchrepairtalk.com/",
+        "http://www.popular-babynames.com/",
+        "http://forge.codesys.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "civic-cookie-control": {
-    "US": {
-      "sites": 4,
+    "GB": {
+      "sites": 221,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://forum-en.msi.com/",
-        "http://healthunlocked.com/",
-        "http://us.msi.com/",
-        "http://www.msi.com/"
+        "http://www.newport.gov.uk/",
+        "http://www.arts.ac.uk/",
+        "http://www.sheffield.gov.uk/",
+        "http://www.bacs.co.uk/",
+        "http://www.jessops.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
     "DE": {
-      "sites": 8,
+      "sites": 6,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.soundonsound.com/",
-        "http://forum-en.msi.com/",
+        "http://de.msi.com/",
         "http://losteria.net/",
         "http://motorrad.suzuki.de/",
-        "http://www.gameswelt.de/"
+        "http://www.vwfs.de/",
+        "http://www.msi.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 210,
-      "errors": 1,
+    "US": {
+      "sites": 57,
+      "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.argyll-bute.gov.uk/",
-        "http://www.sheffield.gov.uk/",
-        "http://www.bacs.co.uk/",
-        "http://www.bath.ac.uk/",
-        "http://www.mi5.gov.uk/"
+        "http://www.pillsburylaw.com/",
+        "http://www.nomanssky.com/",
+        "http://nzxt.com/",
+        "http://www.nuffieldhealth.com/",
+        "http://extension.purdue.edu/"
       ],
       "failingSites": [],
-      "errorSites": [
-        "http://planning.org.uk/"
-      ]
+      "errorSites": []
     }
   },
   "ckies": {
@@ -1728,32 +2128,54 @@
     }
   },
   "click.io": {
+    "GB": {
+      "sites": 7,
+      "errors": 0,
+      "selfTestFailures": 6,
+      "exampleSites": [
+        "http://www.aplaceinthesun.com/",
+        "http://www.treccani.it/",
+        "http://www.fantasticfiction.com/",
+        "http://www.thesalarycalculator.co.uk/",
+        "http://www.ilfattoquotidiano.it/"
+      ],
+      "failingSites": [
+        "http://www.thesalarycalculator.co.uk/",
+        "http://www.companiesintheuk.co.uk/",
+        "http://www.fantasticfiction.com/",
+        "http://www.housepricesintheuk.co.uk/",
+        "http://www.ilfattoquotidiano.it/"
+      ],
+      "errorSites": []
+    },
     "DE": {
       "sites": 3,
       "errors": 0,
-      "selfTestFailures": 0,
+      "selfTestFailures": 2,
       "exampleSites": [
         "http://wotpack.ru/",
         "http://www.songtextemania.com/",
         "http://www.treccani.it/"
       ],
-      "failingSites": [],
+      "failingSites": [
+        "http://wotpack.ru/",
+        "http://www.treccani.it/"
+      ],
       "errorSites": []
     },
-    "GB": {
-      "sites": 6,
+    "US": {
+      "sites": 3,
       "errors": 0,
-      "selfTestFailures": 2,
+      "selfTestFailures": 3,
       "exampleSites": [
-        "http://www.treccani.it/",
-        "http://www.companiesintheuk.co.uk/",
-        "http://www.fantasticfiction.com/",
-        "http://www.housepricesintheuk.co.uk/",
-        "http://www.thesalarycalculator.co.uk/"
+        "http://bakemeawish.com/",
+        "http://otadtv.com/",
+        "http://www.macupdate.com/"
       ],
       "failingSites": [
-        "http://www.companiesintheuk.co.uk/",
-        "http://www.thesalarycalculator.co.uk/"
+        "http://bakemeawish.com/",
+        "http://otadtv.com/",
+        "http://www.macupdate.com/"
       ],
       "errorSites": []
     }
@@ -1764,6 +2186,20 @@
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 5,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://jobs.wisc.edu/",
+        "http://weedseedsexpress.com/",
+        "http://www.amentumcareers.com/",
+        "http://www.azstatejobs.gov/",
+        "http://www.jobs.virginia.gov/"
+      ],
       "failingSites": [],
       "errorSites": []
     }
@@ -1781,64 +2217,50 @@
     }
   },
   "com_didomi.io": {
-    "US": {
-      "sites": 32,
+    "GB": {
+      "sites": 64,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.msccruisesusa.com/",
-        "http://guide.michelin.com/",
-        "http://www.euronews.com/",
-        "http://www.france24.com/",
-        "http://www.hilti.com/"
+        "http://www.pizzaexpress.com/",
+        "http://www.vivino.com/",
+        "http://techcrunch.com/",
+        "http://www.msccruises.co.uk/",
+        "http://guide.michelin.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
     "DE": {
-      "sites": 85,
+      "sites": 82,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.fussballtransfers.com/",
-        "http://www.directindustry.de/",
-        "http://www.kleinezeitung.at/",
-        "http://www.kostenlos.de/",
-        "http://qonto.com/"
+        "http://www.planity.com/",
+        "http://www.manomano.de/",
+        "http://www.vivino.com/",
+        "http://www.moviepilot.de/",
+        "http://gedankenwelt.de/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 67,
+    "US": {
+      "sites": 235,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.radiofrance.fr/",
-        "http://www.france24.com/",
-        "http://www.si.com/",
-        "http://www.sundayworld.com/",
-        "http://www.90min.com/"
+        "http://www.jeuxvideo.com/",
+        "http://www.goyard.com/",
+        "http://www.parismatch.com/",
+        "http://www.independent.ie/",
+        "http://myanimals.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "com_oil": {
-    "DE": {
-      "sites": 8,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.metallparadies.de/",
-        "http://robert-franz-naturwaren.de/",
-        "http://www.elektro4000.de/",
-        "http://www.ersatzteilfachmann.de/",
-        "http://www.ipc-computer.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 1,
       "errors": 0,
@@ -1848,19 +2270,45 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "DE": {
+      "sites": 8,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ersatzteildirect.de/",
+        "http://www.metallparadies.de/",
+        "http://www.ersatzteilfachmann.de/",
+        "http://www.kaerchershop-schreiber.de/",
+        "http://www.wolf-online-shop.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://morecast.com/",
+        "http://www.rainews.it/",
+        "http://www.raiplay.it/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "com_optanon": {
-    "US": {
-      "sites": 6,
+    "GB": {
+      "sites": 8,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
         "http://docs.paloaltonetworks.com/",
-        "http://equitable.com/",
+        "http://www.mpb.com/",
         "http://forums.sketchup.com/",
-        "http://learn.ligonier.org/",
-        "http://www.patelco.org/"
+        "http://www.curzon.com/",
+        "http://www.poundstretcher.co.uk/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -1878,45 +2326,45 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 8,
+    "US": {
+      "sites": 30,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.curzon.com/",
-        "http://eu.forums.blizzard.com/",
+        "http://www.britrail.com/",
         "http://forums.sketchup.com/",
-        "http://mpb.com/",
-        "http://us.forums.blizzard.com/"
+        "http://www.chapman.edu/",
+        "http://www.kslaw.com/",
+        "http://store.ligonier.org/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "com_quantcast2": {
-    "DE": {
-      "sites": 40,
+    "GB": {
+      "sites": 67,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://lol.fandom.com/",
-        "http://valheim.fandom.com/",
-        "http://genshin-impact.fandom.com/",
-        "http://harrypotter.fandom.com/",
-        "http://hypixel-skyblock.fandom.com/"
+        "http://wowpedia.fandom.com/",
+        "http://villains.fandom.com/",
+        "http://elite-dangerous.fandom.com/",
+        "http://warhammerfantasy.fandom.com/",
+        "http://coronationstreet.fandom.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 66,
+    "DE": {
+      "sites": 44,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://simpsons.fandom.com/",
-        "http://marvel.fandom.com/",
-        "http://terraria.fandom.com/",
-        "http://valheim.fandom.com/",
+        "http://sims.fandom.com/",
+        "http://warhammer40k.fandom.com/",
+        "http://genshin-impact.fandom.com/",
+        "http://witcher.fandom.com/",
         "http://elite-dangerous.fandom.com/"
       ],
       "failingSites": [],
@@ -1924,7 +2372,27 @@
     }
   },
   "com_springer": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.onet.pl/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.onet.pl/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -1935,69 +2403,84 @@
       "errorSites": []
     }
   },
-  "consent-manager": {
+  "com_wordpressgdpr": {
     "US": {
-      "sites": 1,
-      "errors": 0,
+      "sites": 4,
+      "errors": 1,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://ouraring.com/"
+        "http://broadwaydirect.com/",
+        "http://crewcarwash.com/",
+        "http://sewing.com/",
+        "http://www.stlucia.org/"
       ],
       "failingSites": [],
-      "errorSites": []
+      "errorSites": [
+        "http://broadwaydirect.com/"
+      ]
     }
   },
   "consentmanager.net": {
-    "US": {
-      "sites": 17,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://coupons.cnn.com/",
-        "http://www.bosch-home.com/",
-        "http://www.dw.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 492,
-      "errors": 0,
+    "GB": {
+      "sites": 209,
+      "errors": 1,
       "selfTestFailures": 1,
       "exampleSites": [
-        "http://www.hsv.de/",
-        "http://www.gluehbirne.de/",
-        "http://www.klimatabelle.info/",
-        "http://linuxize.com/",
-        "http://www.nivea.de/"
+        "http://www.instantstreetview.com/",
+        "http://nosweatshakespeare.com/",
+        "http://www.siemens-home.bsh-group.com/",
+        "http://overframe.gg/",
+        "http://www.economicshelp.org/"
       ],
       "failingSites": [
-        "http://www.lernort-mint.de/"
+        "http://housegrail.com/"
       ],
-      "errorSites": []
+      "errorSites": [
+        "http://blackcitadelrpg.com/"
+      ]
     },
-    "GB": {
-      "sites": 205,
+    "DE": {
+      "sites": 496,
+      "errors": 1,
+      "selfTestFailures": 3,
+      "exampleSites": [
+        "http://www.bausep.de/",
+        "http://www.wer-weiss-was.de/",
+        "http://www.coupons.de/",
+        "http://www.studis-online.de/",
+        "http://www.morgenpost.de/"
+      ],
+      "failingSites": [
+        "http://pimylifeup.com/",
+        "http://www.dpreview.com/",
+        "http://www.tuningblog.eu/"
+      ],
+      "errorSites": [
+        "http://www.kuechen-forum.de/"
+      ]
+    },
+    "US": {
+      "sites": 120,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://mechanicbase.com/",
-        "http://www.oldest.org/",
-        "http://musiccritic.com/",
-        "http://nerdburglars.net/",
-        "http://www.exceldemy.com/"
+        "http://www.skf.com/",
+        "http://www.munich-airport.com/",
+        "http://vehicleaftermarket.skf.com/",
+        "http://www.naxos.com/",
+        "http://mobiletrans.wondershare.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "cookie-consent-spice": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.thomannmusic.com/"
+        "http://www.thomann.co.uk/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -2014,74 +2497,119 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 1,
+    "US": {
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.thomann.co.uk/"
+        "http://www.thomann.de/",
+        "http://www.thomannmusic.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "cookie-law-info": {
-    "US": {
-      "sites": 22,
+    "GB": {
+      "sites": 38,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://short-fact.com/",
+        "http://www.quiztriviagames.com/",
         "http://craft.co/",
-        "http://www.mysextoyguide.com/",
-        "http://www.scotusblog.com/",
-        "http://www.timbertech.com/"
+        "http://quietliving.co.uk/",
+        "http://www.piano-keyboard-guide.com/",
+        "http://elixirgardensupplies.co.uk/"
       ],
       "failingSites": [],
       "errorSites": []
     },
     "DE": {
-      "sites": 15,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.coffeeness.de/",
-        "http://die-gesunde-wahrheit.de/",
-        "http://www.omas-gegen-rechts.org/",
-        "http://leitlinien.dgk.org/",
-        "http://www.fitundattraktiv.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 35,
-      "errors": 1,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://wise-answer.com/",
-        "http://yourquickadvice.com/",
-        "http://quietliving.co.uk/",
-        "http://short-fact.com/",
-        "http://talkingpicturestv.co.uk/"
-      ],
-      "failingSites": [],
-      "errorSites": [
-        "http://www.matthewsvolvosite.com/"
-      ]
-    }
-  },
-  "cookie-notice": {
-    "US": {
       "sites": 19,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://vaclaimsinsider.com/",
-        "http://childrenshealthdefense.org/",
+        "http://www.e-mobileo.de/",
+        "http://leitlinien.dgk.org/",
+        "http://www.fitundattraktiv.de/",
+        "http://www.bitblokes.de/",
+        "http://reihenfolge.org/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 567,
+      "errors": 1,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://management.org/",
+        "http://www.psychologicalscience.org/",
+        "http://northwoodmfg.com/",
+        "http://www.masters.edu/",
+        "http://www.calculatorology.com/"
+      ],
+      "failingSites": [],
+      "errorSites": [
+        "http://craft.co/"
+      ]
+    }
+  },
+  "cookie-notice": {
+    "GB": {
+      "sites": 17,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.mysmallspace.co.uk/",
+        "http://ubuntuhandbook.org/",
+        "http://www.splitmyfare.co.uk/",
         "http://www.bikeride.com/",
-        "http://www.libertynation.com/",
-        "http://www.manufacturedhomes.com/"
+        "http://wordkraft.ai/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 33,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://thelordofporn.com/",
+        "http://klargesund.de/",
+        "http://ultimaker.com/",
+        "http://www.vitalstoffmedizin.com/",
+        "http://materialwiese.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 442,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://networthcolumn.com/",
+        "http://www.vermontlanterns.com/",
+        "http://rts.edu/",
+        "http://www.timepieceking.info/",
+        "http://www.libertynation.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "cookie-script": {
+    "GB": {
+      "sites": 54,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.smartbuyglasses.co.uk/",
+        "http://www.powertoolworld.co.uk/",
+        "http://www.boilerguide.co.uk/",
+        "http://www.rusi.org/",
+        "http://ra.co/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -2091,69 +2619,25 @@
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.expertentesten.de/",
-        "http://zoll-in-cm.com/",
-        "http://testbedarf.de/",
-        "http://ultimaker.com/",
-        "http://www.allkeyshop.com/"
+        "http://www.zyxel.com/",
+        "http://ra.co/",
+        "http://www.deskmodder.de/",
+        "http://www.trustdeals.de/",
+        "http://trauer.hna.de/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 15,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.allkeyshop.com/",
-        "http://gg.co.uk/",
-        "http://www.publicrecordsearch.co.uk/",
-        "http://psychiatry-uk.com/",
-        "http://www.churchservices.tv/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "cookie-script": {
     "US": {
-      "sites": 12,
+      "sites": 135,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.praywithme.com/",
-        "http://www.247games.com/",
-        "http://www.watchmojo.com/",
-        "http://www.dietdoctor.com/",
-        "http://www.tax1099.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 35,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.gay.de/",
-        "http://www.vrm-trauer.de/",
-        "http://www.backstagepro.de/",
-        "http://www.druckluft-fachhandel.de/",
-        "http://www.elriwa.de/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 53,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.toolstop.co.uk/",
-        "http://www.mcqueensdairies.co.uk/",
-        "http://www.247games.com/",
-        "http://www.boilerguide.co.uk/",
-        "http://www.bps.org.uk/"
+        "http://www.crosscards.com/",
+        "http://www.castingnetworks.com/",
+        "http://www.freelogodesign.org/",
+        "http://www.churchangel.com/",
+        "http://www.turnerconstruction.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -2161,46 +2645,51 @@
   },
   "cookieacceptbar": {
     "US": {
-      "sites": 1,
+      "sites": 5,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.streamlight.com/"
+        "http://justfor.fans/",
+        "http://www.btimesonline.com/",
+        "http://www.prucenter.com/",
+        "http://www.streamlight.com/",
+        "http://www.tysonfoods.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "cookieconsent2": {
-    "US": {
-      "sites": 11,
+    "GB": {
+      "sites": 27,
       "errors": 0,
-      "selfTestFailures": 4,
+      "selfTestFailures": 7,
       "exampleSites": [
-        "http://www.mhvillage.com/",
-        "http://maclookup.app/",
-        "http://makerworld.com/",
-        "http://medicine.yale.edu/",
-        "http://www.yalemedicine.org/"
+        "http://www.dm-tools.co.uk/",
+        "http://www.anker.com/",
+        "http://www.gousto.co.uk/",
+        "http://www.pitchero.com/",
+        "http://www.bathnes.gov.uk/"
       ],
       "failingSites": [
-        "http://maclookup.app/",
+        "http://www.proxmox.com/",
         "http://sniffies.com/",
-        "http://www.mhvillage.com/",
-        "http://www.proxmox.com/"
+        "http://www.cuh.nhs.uk/",
+        "http://www.hendy.co.uk/",
+        "http://www.liverpoolmuseums.org.uk/"
       ],
       "errorSites": []
     },
     "DE": {
-      "sites": 32,
+      "sites": 35,
       "errors": 0,
       "selfTestFailures": 5,
       "exampleSites": [
-        "http://www.minijobs.info/",
-        "http://flows.nodered.org/",
-        "http://www.eufy.com/",
-        "http://www.hochschulkompass.de/",
-        "http://www.jesus.de/"
+        "http://www.yazio.com/",
+        "http://www.anker.com/",
+        "http://www.gutegutscheine.de/",
+        "http://www.staatstheater-kassel.de/",
+        "http://www.ankersolix.com/"
       ],
       "failingSites": [
         "http://maclookup.app/",
@@ -2211,41 +2700,42 @@
       ],
       "errorSites": []
     },
-    "GB": {
-      "sites": 27,
+    "US": {
+      "sites": 101,
       "errors": 0,
-      "selfTestFailures": 9,
+      "selfTestFailures": 38,
       "exampleSites": [
-        "http://www.proxmox.com/",
-        "http://alcoholchange.org.uk/",
+        "http://www.espboards.dev/",
         "http://www.cuh.nhs.uk/",
-        "http://www.growveg.co.uk/",
-        "http://www.hendy.co.uk/"
+        "http://www.neopets.com/",
+        "http://www.drylok.com/",
+        "http://boardgamegeek.com/"
       ],
       "failingSites": [
-        "http://alcoholchange.org.uk/",
-        "http://maclookup.app/",
-        "http://www.liverpoolmuseums.org.uk/",
-        "http://www.cuh.nhs.uk/",
-        "http://www.visitnorthumberland.com/"
+        "http://www.ktsa.com/",
+        "http://autocamp.com/",
+        "http://www.kxl.com/",
+        "http://www.smarterasp.net/",
+        "http://www.confluenceoutdoor.com/"
       ],
       "errorSites": []
     }
   },
   "cookieconsent3": {
-    "US": {
-      "sites": 6,
+    "GB": {
+      "sites": 11,
       "errors": 0,
-      "selfTestFailures": 1,
+      "selfTestFailures": 2,
       "exampleSites": [
-        "http://www.qnap.com/",
-        "http://www.buildzoom.com/",
-        "http://www.crealitycloud.com/",
-        "http://www.naturalgrocers.com/",
-        "http://www.prnewswire.com/"
+        "http://healf.com/",
+        "http://www.fhbrundle.co.uk/",
+        "http://www.canford.co.uk/",
+        "http://www.wipo.int/",
+        "http://www.pafc.co.uk/"
       ],
       "failingSites": [
-        "http://www.crealitycloud.com/"
+        "http://www.canford.co.uk/",
+        "http://www.wipo.int/"
       ],
       "errorSites": []
     },
@@ -2254,50 +2744,42 @@
       "errors": 0,
       "selfTestFailures": 4,
       "exampleSites": [
-        "http://www.kuechen-atlas.de/",
-        "http://codesandbox.io/",
-        "http://www.testbericht.de/",
-        "http://rustdesk.com/",
-        "http://www.stretta-music.de/"
+        "http://www.suedtirol.com/",
+        "http://www.gaertnerplatztheater.de/",
+        "http://www.wasgehtapp.de/",
+        "http://www.stretta-music.de/",
+        "http://www.hundeurlaub.de/"
       ],
       "failingSites": [
         "http://www.hundeurlaub.de/",
         "http://www.kuechen-atlas.de/",
         "http://www.stretta-music.de/",
-        "http://www.wipo.int/"
+        "http://www.studentenwerk-leipzig.de/"
       ],
       "errorSites": []
     },
-    "GB": {
-      "sites": 13,
+    "US": {
+      "sites": 74,
       "errors": 0,
-      "selfTestFailures": 2,
+      "selfTestFailures": 12,
       "exampleSites": [
-        "http://www.olympicholidays.com/",
-        "http://healf.com/",
-        "http://www.wipo.int/",
-        "http://www.canford.co.uk/",
-        "http://www.qnap.com/"
+        "http://www.thesilverdoll.com/",
+        "http://www.prweb.com/",
+        "http://gagosian.com/",
+        "http://www.soleretriever.com/",
+        "http://dialnet.unirioja.es/"
       ],
       "failingSites": [
-        "http://www.canford.co.uk/",
-        "http://www.wipo.int/"
+        "http://umich.edu/",
+        "http://english.radio.cz/",
+        "http://news.umich.edu/",
+        "http://www.soleretriever.com/",
+        "http://record.umich.edu/"
       ],
       "errorSites": []
     }
   },
   "cookiecuttr": {
-    "DE": {
-      "sites": 2,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://bachheimer.com/",
-        "http://www.esa.int/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 3,
       "errors": 0,
@@ -2309,49 +2791,79 @@
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "cookiefirst.com": {
-    "US": {
-      "sites": 1,
+    },
+    "DE": {
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://printify.com/"
+        "http://bachheimer.com/",
+        "http://www.esa.int/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "DE": {
-      "sites": 55,
+    "US": {
+      "sites": 3,
       "errors": 0,
-      "selfTestFailures": 1,
+      "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.smeg.com/",
-        "http://www.mcseboard.de/",
-        "http://zumnorde.de/",
-        "http://www.bgetem.de/",
-        "http://www.bikes.de/"
+        "http://www.cad-steel.com/",
+        "http://www.cambridgeinternational.org/",
+        "http://www.esa.int/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "cookiefirst.com": {
+    "GB": {
+      "sites": 27,
+      "errors": 0,
+      "selfTestFailures": 3,
+      "exampleSites": [
+        "http://www.jollyes.co.uk/",
+        "http://www.arturia.com/",
+        "http://www.knivesandtools.co.uk/",
+        "http://www.revouninstaller.com/",
+        "http://www.bristolstreet.co.uk/"
       ],
       "failingSites": [
-        "http://www.smeg.com/"
+        "http://news.motability.co.uk/",
+        "http://www.gardenhirespares.co.uk/",
+        "http://www.motability.co.uk/"
       ],
       "errorSites": []
     },
-    "GB": {
-      "sites": 25,
+    "DE": {
+      "sites": 54,
       "errors": 0,
-      "selfTestFailures": 2,
+      "selfTestFailures": 1,
       "exampleSites": [
-        "http://www.roughguides.com/",
-        "http://elementgames.co.uk/",
-        "http://www.justradiators.co.uk/",
-        "http://www.motability.co.uk/",
-        "http://www.port.ac.uk/"
+        "http://www.purenature.de/",
+        "http://www.notendownload.com/",
+        "http://www.arturia.com/",
+        "http://www.playthebazaar.com/",
+        "http://hkcmanagement.de/"
       ],
       "failingSites": [
-        "http://www.gardenhirespares.co.uk/",
-        "http://www.motability.co.uk/"
+        "http://yuma.de/"
+      ],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 44,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://www.practiceaptitudetests.com/",
+        "http://www.smeg.com/",
+        "http://whiskyauctioneer.com/",
+        "http://www.unbiased.com/",
+        "http://minecraft.buzz/"
+      ],
+      "failingSites": [
+        "http://www.smeg.com/"
       ],
       "errorSites": []
     }
@@ -2366,77 +2878,104 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.citizensinformation.ie/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "cookiejs-modal": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.gov.ie/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "cookieyes": {
-    "US": {
-      "sites": 41,
+    "GB": {
+      "sites": 125,
       "errors": 0,
-      "selfTestFailures": 13,
+      "selfTestFailures": 16,
       "exampleSites": [
-        "http://www.astound.com/",
-        "http://www.wegmans.com/",
-        "http://news.artnet.com/",
-        "http://thewhiskeywash.com/",
-        "http://trendsnewsline.com/"
+        "http://www.foxit.com/",
+        "http://www.debenhams.com/",
+        "http://www.motorpoint.co.uk/",
+        "http://www.drivereasy.com/",
+        "http://www.worldbookday.com/"
       ],
       "failingSites": [
-        "http://ahrefs.com/",
-        "http://ycharts.com/",
-        "http://news.artnet.com/",
-        "http://www.razer.com/",
-        "http://www.drivereasy.com/"
+        "http://www.swiftgroup.co.uk/",
+        "http://goodmenproject.com/",
+        "http://thepeoplespension.co.uk/",
+        "http://www.loake.com/",
+        "http://www.bad.org.uk/"
       ],
       "errorSites": []
     },
     "DE": {
-      "sites": 30,
+      "sites": 27,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.gruene.de/",
-        "http://cybernews.com/",
-        "http://www.artnet.com/",
-        "http://www.directferries.de/",
-        "http://www.fontspace.com/"
+        "http://www.fesselnde-geschichten.de/",
+        "http://verbraucherschutzforum.berlin/",
+        "http://www.foxit.com/",
+        "http://www.med-mag.de/",
+        "http://wohntrends-magazin.de/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 124,
-      "errors": 0,
-      "selfTestFailures": 11,
+    "US": {
+      "sites": 841,
+      "errors": 1,
+      "selfTestFailures": 136,
       "exampleSites": [
-        "http://www.board-game.co.uk/",
-        "http://www.mandp.co.uk/",
-        "http://www.craghoppers.com/",
-        "http://www.dishoom.com/",
-        "http://goodmoneyguide.com/"
+        "http://flstrawberryfestival.com/",
+        "http://www.houseofbruar.com/",
+        "http://groq.com/",
+        "http://voyagerinfo.com/",
+        "http://www.steaknshake.com/"
       ],
       "failingSites": [
-        "http://buffer.com/",
-        "http://thepeoplespension.co.uk/",
-        "http://www.loake.com/",
-        "http://www.waterstones.com/",
-        "http://www.nottinghamcity.gov.uk/"
+        "http://tnoncology.com/",
+        "http://allveteran.com/",
+        "http://zootampa.org/",
+        "http://www.prisma.io/",
+        "http://press.princeton.edu/"
       ],
-      "errorSites": []
+      "errorSites": [
+        "http://pendulumlife.com/"
+      ]
     }
   },
   "corona-in-zahlen.de": {
-    "US": {
-      "sites": 4,
-      "errors": 0,
+    "GB": {
+      "sites": 7,
+      "errors": 1,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.askart.com/",
-        "http://www.lsu.edu/",
+        "http://camslib.com/",
+        "http://www.ukclimbing.com/",
+        "http://www.goodschoolsguide.co.uk/",
         "http://www.modland.net/",
-        "http://www.peekyou.com/"
+        "http://www.lemonamiga.com/"
       ],
       "failingSites": [],
-      "errorSites": []
+      "errorSites": [
+        "http://www.modland.net/"
+      ]
     },
     "DE": {
       "sites": 4,
@@ -2453,21 +2992,73 @@
         "http://www.modland.net/"
       ]
     },
-    "GB": {
-      "sites": 7,
-      "errors": 1,
+    "US": {
+      "sites": 62,
+      "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.ukclimbing.com/",
-        "http://ldwa.org.uk/",
-        "http://www.goodschoolsguide.co.uk/",
-        "http://www.houseofnames.com/",
-        "http://www.lemonamiga.com/"
+        "http://www.lsu.edu/",
+        "http://www.wealthdaily.com/",
+        "http://library.usu.edu/",
+        "http://www.hbtbank.com/",
+        "http://emma.msrb.org/"
       ],
       "failingSites": [],
-      "errorSites": [
-        "http://www.modland.net/"
-      ]
+      "errorSites": []
+    }
+  },
+  "ct-ultimate-gdpr": {
+    "US": {
+      "sites": 7,
+      "errors": 0,
+      "selfTestFailures": 3,
+      "exampleSites": [
+        "http://apexmunition.com/",
+        "http://blog.paleohacks.com/",
+        "http://prepareforchange.net/",
+        "http://www.neilmed.com/",
+        "http://www.awana.org/"
+      ],
+      "failingSites": [
+        "http://blog.paleohacks.com/",
+        "http://userpilot.com/",
+        "http://www.awana.org/"
+      ],
+      "errorSites": []
+    }
+  },
+  "curseforge": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.curseforge.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.curseforge.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://support.curseforge.com/",
+        "http://www.curseforge.com/",
+        "http://www.overwolf.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "dailymotion-us": {
@@ -2483,17 +3074,15 @@
     }
   },
   "delta.com": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.delta.com/"
-      ],
+      "exampleSites": [],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -2505,16 +3094,6 @@
     }
   },
   "depop": {
-    "US": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.depop.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 1,
       "errors": 0,
@@ -2526,17 +3105,48 @@
       "errorSites": []
     }
   },
-  "dmgmedia": {
-    "DE": {
-      "sites": 1,
+  "dji": {
+    "GB": {
+      "sites": 4,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://metro.co.uk/"
+        "http://forum.dji.com/",
+        "http://store.dji.com/",
+        "http://support.dji.com/",
+        "http://www.dji.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
+    "DE": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://forum.dji.com/",
+        "http://store.dji.com/",
+        "http://www.dji.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 6,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://dl.djicdn.com/",
+        "http://enterprise.dji.com/",
+        "http://forum.dji.com/",
+        "http://www.dji.com/",
+        "http://support.dji.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "dmgmedia": {
     "GB": {
       "sites": 5,
       "errors": 0,
@@ -2550,16 +3160,28 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://metro.co.uk/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "dmgmedia-us": {
     "US": {
-      "sites": 3,
+      "sites": 6,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://inews.co.uk/",
         "http://metro.co.uk/",
         "http://www.dailymail.co.uk/",
+        "http://www.thisismoney.co.uk/",
         "http://www.newscientist.com/"
       ],
       "failingSites": [],
@@ -2567,12 +3189,16 @@
     }
   },
   "ebay": {
-    "US": {
-      "sites": 1,
+    "GB": {
+      "sites": 8,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.ebay.co.uk/"
+        "http://ebay.co.uk/",
+        "http://www.ebay.de/",
+        "http://www.ebay.ca/",
+        "http://www.ebay.com/",
+        "http://www.ebay.ie/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -2582,25 +3208,36 @@
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://ebay.de/",
         "http://www.ebay.com/",
-        "http://signin.ebay.de/",
         "http://www.ebay.at/",
-        "http://www.ebay.ca/",
-        "http://www.ebay.co.uk/"
+        "http://www.ebay.com.au/",
+        "http://www.ebay.de/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 8,
+    "US": {
+      "sites": 4,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.ebay.de/",
-        "http://pages.ebay.co.uk/",
-        "http://www.ebay.ca/",
         "http://www.ebay.co.uk/",
-        "http://www.ebay.com.au/"
+        "http://www.ebay.de/",
+        "http://www.ebay.fr/",
+        "http://www.ebay.ie/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "ecosia": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.ecosia.org/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -2619,99 +3256,122 @@
     }
   },
   "eu-cookie-compliance-banner": {
-    "US": {
-      "sites": 15,
+    "GB": {
+      "sites": 50,
       "errors": 0,
-      "selfTestFailures": 1,
+      "selfTestFailures": 3,
       "exampleSites": [
-        "http://www.mcgill.ca/",
-        "http://exploregeorgia.org/",
-        "http://www.usccb.org/",
-        "http://publichealth.jhu.edu/",
-        "http://www.nowfoods.com/"
+        "http://www.warrington.gov.uk/",
+        "http://www.togethertv.com/",
+        "http://www.equalityhumanrights.com/",
+        "http://www.tuc.org.uk/",
+        "http://www.canterbury.gov.uk/"
       ],
       "failingSites": [
-        "http://www.mcgill.ca/"
+        "http://www.local.gov.uk/",
+        "http://www.mcgill.ca/",
+        "http://www.plymouth.gov.uk/"
       ],
       "errorSites": []
     },
     "DE": {
-      "sites": 30,
+      "sites": 25,
       "errors": 0,
       "selfTestFailures": 3,
       "exampleSites": [
-        "http://www.justiz.nrw.de/",
-        "http://kommunal.de/",
-        "http://www.finanzamt.nrw.de/",
-        "http://www.gorki.de/",
-        "http://www.handwerk.com/"
+        "http://www.handwerk.com/",
+        "http://www.easa.europa.eu/",
+        "http://www.heubach-edelmetalle.de/",
+        "http://www.muenchner-volkstheater.de/",
+        "http://www.epo.org/"
       ],
       "failingSites": [
-        "http://kommunal.de/",
         "http://www.bra.nrw.de/",
-        "http://www.justiz.nrw.de/"
+        "http://www.justiz.nrw.de/",
+        "http://www.justiz.nrw/"
       ],
       "errorSites": []
     },
-    "GB": {
-      "sites": 48,
+    "US": {
+      "sites": 270,
       "errors": 0,
-      "selfTestFailures": 2,
+      "selfTestFailures": 6,
       "exampleSites": [
-        "http://www.ipsos.com/",
-        "http://www.rcoa.ac.uk/",
-        "http://www.ebu.co.uk/",
-        "http://www.essex.gov.uk/",
-        "http://www.ethicalconsumer.org/"
+        "http://www.furnituremedic.com/",
+        "http://www.visitmusiccity.com/",
+        "http://www.mngi.com/",
+        "http://undergrad.admissions.columbia.edu/",
+        "http://www.davispolk.com/"
       ],
       "failingSites": [
-        "http://www.local.gov.uk/",
-        "http://www.plymouth.gov.uk/"
+        "http://www.yotel.com/",
+        "http://vascular.org/",
+        "http://www.catan.com/",
+        "http://www.mcgill.ca/",
+        "http://www.napoleon.com/"
       ],
       "errorSites": []
     }
   },
   "europa-eu": {
-    "US": {
-      "sites": 1,
+    "GB": {
+      "sites": 7,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://travel-europe.europa.eu/"
+        "http://commission.europa.eu/",
+        "http://www.ema.europa.eu/",
+        "http://eur-lex.europa.eu/",
+        "http://travel-europe.europa.eu/",
+        "http://european-union.europa.eu/"
       ],
       "failingSites": [],
       "errorSites": []
     },
     "DE": {
-      "sites": 10,
+      "sites": 9,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://germany.representation.ec.europa.eu/",
-        "http://ec.europa.eu/",
+        "http://commission.europa.eu/",
+        "http://european-union.europa.eu/",
         "http://echa.europa.eu/",
-        "http://erasmus-plus.ec.europa.eu/",
-        "http://eur-lex.europa.eu/"
+        "http://europass.europa.eu/",
+        "http://germany.representation.ec.europa.eu/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 6,
+    "US": {
+      "sites": 13,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
         "http://www.ema.europa.eu/",
-        "http://ec.europa.eu/",
-        "http://eur-lex.europa.eu/",
-        "http://europa.eu/",
-        "http://travel-europe.europa.eu/"
+        "http://health.ec.europa.eu/",
+        "http://echa.europa.eu/",
+        "http://www.echa.europa.eu/",
+        "http://home-affairs.ec.europa.eu/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "facebook": {
+    "GB": {
+      "sites": 5,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://apps.facebook.com/",
+        "http://business.facebook.com/",
+        "http://developers.facebook.com/",
+        "http://en-gb.facebook.com/",
+        "http://www.facebook.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "DE": {
       "sites": 3,
       "errors": 0,
@@ -2723,22 +3383,36 @@
       ],
       "failingSites": [],
       "errorSites": []
-    },
+    }
+  },
+  "fides": {
     "GB": {
+      "sites": 5,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://cooking.nytimes.com/",
+        "http://nextjs.org/",
+        "http://vercel.com/",
+        "http://wetransfer.com/",
+        "http://www.nytimes.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
       "sites": 4,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://apps.facebook.com/",
-        "http://business.facebook.com/",
-        "http://en-gb.facebook.com/",
-        "http://www.facebook.com/"
+        "http://nextjs.org/",
+        "http://vercel.com/",
+        "http://wetransfer.com/",
+        "http://www.nytimes.com/"
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "fides": {
+    },
     "US": {
       "sites": 1,
       "errors": 0,
@@ -2748,78 +3422,132 @@
       ],
       "failingSites": [],
       "errorSites": []
-    },
-    "DE": {
-      "sites": 3,
+    }
+  },
+  "financestrategists.com": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "finsweet": {
+    "GB": {
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://nextjs.org/",
-        "http://wetransfer.com/",
-        "http://www.nytimes.com/"
+        "http://www.crunch.co.uk/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 4,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://cooking.nytimes.com/",
-        "http://nextjs.org/",
-        "http://wetransfer.com/",
-        "http://www.nytimes.com/"
+        "http://www.golftec.com/",
+        "http://www.hurdlr.com/",
+        "http://www.rlicorp.com/",
+        "http://www.thecookingguy.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "funding-choices": {
-    "DE": {
-      "sites": 563,
+    "GB": {
+      "sites": 644,
       "errors": 1,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://welches-netz.com/",
-        "http://texture-packs.com/",
-        "http://www.aiease.ai/",
-        "http://de.hotdeals.com/",
-        "http://www.ephotozine.com/"
+        "http://numberspy.co.uk/",
+        "http://www.traditionalmusic.co.uk/",
+        "http://scrabblewordfinder.org/",
+        "http://www.leedsunited.com/",
+        "http://www.tmz.com/"
       ],
       "failingSites": [],
       "errorSites": [
         "http://www.modland.net/"
       ]
     },
-    "GB": {
-      "sites": 655,
-      "errors": 5,
+    "DE": {
+      "sites": 564,
+      "errors": 3,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.advocate.com/",
-        "http://vwcaliforniaclub.com/",
-        "http://www.astrology.com/",
-        "http://www.traditionalmusic.co.uk/",
-        "http://www.digitalcitizen.life/"
+        "http://jdownloader.org/",
+        "http://www.pubmed.de/",
+        "http://mvnrepository.com/",
+        "http://www.manua.ls/",
+        "http://www.feiertage-bayern.de/"
       ],
       "failingSites": [],
       "errorSites": [
-        "http://planning.org.uk/",
-        "http://washingtoncitypaper.com/",
-        "http://www.atlasobscura.com/",
-        "http://www.matthewsvolvosite.com/",
+        "http://minecraft.novaskin.me/",
+        "http://www.kuechen-forum.de/",
         "http://www.modland.net/"
       ]
+    },
+    "US": {
+      "sites": 9,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://10minutemail.net/",
+        "http://www.expatica.com/",
+        "http://www.arabnews.com/",
+        "http://www.cyclist.co.uk/",
+        "http://www.meteoblue.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "gdpr-legal-cookie": {
+    "DE": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://nature-heart.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "geni.com": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.geni.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://nature-heart.de/"
+        "http://www.geni.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.geni.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -2835,106 +3563,119 @@
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "google-consent-standalone": {
-    "DE": {
-      "sites": 12,
+    },
+    "US": {
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://store.google.com/",
-        "http://gemini.google.com/",
-        "http://translate.google.de/",
-        "http://maps.google.de/",
-        "http://translate.google.com/"
+        "http://www.glastonburyfestivals.co.uk/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "google-consent-standalone": {
+    "GB": {
+      "sites": 11,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ads.google.com/",
+        "http://shopping.google.co.uk/",
+        "http://maps.google.co.uk/",
+        "http://www.fitbit.com/",
+        "http://store.google.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 12,
+    "DE": {
+      "sites": 11,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://store.google.com/",
-        "http://gemini.google.com/",
-        "http://www.fitbit.com/",
+        "http://ads.google.com/",
+        "http://maps.google.it/",
         "http://maps.google.com/",
-        "http://translate.google.com/"
+        "http://translate.google.de/",
+        "http://news.google.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "google-cookiebar": {
-    "DE": {
+    "GB": {
       "sites": 19,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://developer.chrome.com/",
-        "http://api.flutter.dev/",
         "http://lens.google/",
-        "http://notebooklm.google/",
-        "http://photos.google.com/"
+        "http://deepmind.google/",
+        "http://myaccount.google.com/",
+        "http://drive.google.com/",
+        "http://developer.android.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 21,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.tensorflow.org/",
-        "http://aistudio.google.com/",
-        "http://firebase.google.com/",
+        "http://lens.google/",
+        "http://deepmind.google/",
         "http://myaccount.google.com/",
-        "http://notebooklm.google/"
+        "http://www.android.com/",
+        "http://developer.android.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "google.com": {
-    "DE": {
-      "sites": 6,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.google.de/",
-        "http://images.google.de/",
-        "http://search.google.com/",
-        "http://ww-fmovies.com/",
-        "http://www.google.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 7,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://images.google.co.uk/",
         "http://www.pichunter.com/",
-        "http://images.google.com/",
         "http://search.google.com/",
-        "http://ww-fmovies.com/",
+        "http://www.google.com/",
         "http://www.google.co.uk/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 6,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://images.google.com/",
+        "http://images.google.de/",
+        "http://search.google.com/",
+        "http://www.google.de/",
+        "http://www.google.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "gov.uk": {
-    "US": {
-      "sites": 2,
+    "GB": {
+      "sites": 22,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://find-and-update.company-information.service.gov.uk/",
-        "http://www.gov.uk/"
+        "http://www.find-court-tribunal.service.gov.uk/",
+        "http://get-information-schools.service.gov.uk/",
+        "http://www.gov.uk/",
+        "http://www.ulh.nhs.uk/",
+        "http://idam-ui.company-information.service.gov.uk/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -2950,22 +3691,79 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 22,
+    "US": {
+      "sites": 4,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.universal-credit.service.gov.uk/",
-        "http://contact.dvla.gov.uk/",
-        "http://www.find-court-tribunal.service.gov.uk/",
-        "http://www.leedsth.nhs.uk/",
-        "http://www.sign-in.service.gov.uk/"
+        "http://find-and-update.company-information.service.gov.uk/",
+        "http://www.gov.uk/",
+        "http://www.palram.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "gravito": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.hitta.se/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "groundnews": {
+    "GB": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ground.news/",
+        "http://web.ground.news/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ground.news/",
+        "http://web.ground.news/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "healthline-media": {
+    "GB": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://psychcentral.com/",
+        "http://www.healthline.com/",
+        "http://www.medicalnewstoday.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.healthline.com/",
+        "http://www.medicalnewstoday.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "US": {
       "sites": 4,
       "errors": 0,
@@ -2978,83 +3776,108 @@
       ],
       "failingSites": [],
       "errorSites": []
-    },
-    "DE": {
-      "sites": 2,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.healthline.com/",
-        "http://www.medicalnewstoday.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 3,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://psychcentral.com/",
-        "http://www.healthline.com/",
-        "http://www.medicalnewstoday.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
     }
   },
   "hu-manity": {
-    "GB": {
-      "sites": 2,
+    "US": {
+      "sites": 36,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.jamesmartinchef.co.uk/",
-        "http://www.vent-axia.com/"
+        "http://www.traveldailynews.com/",
+        "http://keep2shares.net/",
+        "http://poultrykeeper.com/",
+        "http://www.tarabrach.com/",
+        "http://lawnphix.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "hubspot": {
-    "US": {
-      "sites": 10,
+    "GB": {
+      "sites": 6,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.tileshop.com/",
-        "http://www.aafp.org/",
+        "http://blog.hubspot.com/",
         "http://www.epubor.com/",
-        "http://www.hubspot.com/",
-        "http://www.iqair.com/"
+        "http://www.feefo.com/",
+        "http://www.trinitycollege.com/",
+        "http://www.hubspot.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
     "DE": {
-      "sites": 6,
+      "sites": 4,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.supermicro.com/",
+        "http://blog.hubspot.de/",
         "http://element.io/",
-        "http://www.epubor.com/",
-        "http://www.portainer.io/",
-        "http://www.ssh.com/"
+        "http://www.hubspot.de/",
+        "http://www.supermicro.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
+    "US": {
+      "sites": 357,
+      "errors": 1,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.assetmark.com/",
+        "http://www.netgate.com/",
+        "http://www.deeringbanjos.com/",
+        "http://go.energizedhealth.com/",
+        "http://www.wellsense.org/"
+      ],
+      "failingSites": [],
+      "errorSites": [
+        "http://craft.co/"
+      ]
+    }
+  },
+  "imdb": {
     "GB": {
-      "sites": 7,
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.trinitycollege.com/",
-        "http://paradores.es/",
-        "http://subaru.co.uk/",
-        "http://www.epubor.com/",
-        "http://www.feefo.com/"
+        "http://www.imdb.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.imdb.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "instagram": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.instagram.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.instagram.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3075,30 +3898,34 @@
     }
   },
   "iubenda": {
-    "US": {
-      "sites": 6,
+    "GB": {
+      "sites": 32,
       "errors": 0,
-      "selfTestFailures": 0,
+      "selfTestFailures": 3,
       "exampleSites": [
-        "http://coolors.co/",
-        "http://docs.arduino.cc/",
-        "http://forum.arduino.cc/",
         "http://www.arduino.cc/",
-        "http://www.wordonfire.org/"
+        "http://guestreservations.com/",
+        "http://www.barbour.com/",
+        "http://www.wexphotovideo.com/",
+        "http://hackernoon.com/"
       ],
-      "failingSites": [],
+      "failingSites": [
+        "http://www.empressmills.co.uk/",
+        "http://www.howdeninsurance.co.uk/",
+        "http://www.rightbiz.co.uk/"
+      ],
       "errorSites": []
     },
     "DE": {
-      "sites": 21,
+      "sites": 23,
       "errors": 0,
       "selfTestFailures": 4,
       "exampleSites": [
-        "http://rausgegangen.de/",
-        "http://coolors.co/",
+        "http://versicherungsvergleich1.com/",
+        "http://guestreservations.com/",
         "http://www.automateexcel.com/",
-        "http://www.elastic.co/",
-        "http://www.frolicme.com/"
+        "http://www.lastminute.de/",
+        "http://kfzversicherungsvergleich1.de/"
       ],
       "failingSites": [
         "http://fuehrerscheinumtausch.com/",
@@ -3108,21 +3935,22 @@
       ],
       "errorSites": []
     },
-    "GB": {
-      "sites": 31,
+    "US": {
+      "sites": 130,
       "errors": 0,
-      "selfTestFailures": 3,
+      "selfTestFailures": 4,
       "exampleSites": [
-        "http://www.infinitymotorcycles.com/",
-        "http://coolors.co/",
-        "http://www.arduino.cc/",
-        "http://www.elastic.co/",
-        "http://www.empressmills.co.uk/"
+        "http://www.claimdepot.com/",
+        "http://www.barbour.com/",
+        "http://www.ita-airways.com/",
+        "http://www.campagnolo.com/",
+        "http://catechistsjourney.loyolapress.com/"
       ],
       "failingSites": [
-        "http://www.empressmills.co.uk/",
-        "http://www.howdeninsurance.co.uk/",
-        "http://www.rightbiz.co.uk/"
+        "http://www.alpinestars.com/",
+        "http://www.crankbrothers.com/",
+        "http://www.paddle.com/",
+        "http://www.peteandgerrys.com/"
       ],
       "errorSites": []
     }
@@ -3138,17 +3966,39 @@
       ],
       "failingSites": [],
       "errorSites": []
-    }
-  },
-  "jetpack-eu-cookie-law": {
-    "US": {
-      "sites": 3,
+    },
+    "DE": {
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://hip2save.com/",
-        "http://www.bimmerforums.com/",
-        "http://www.hercampus.com/"
+        "http://www.jdsports.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.jdsports.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "jetpack-eu-cookie-law": {
+    "GB": {
+      "sites": 5,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://bigdave44.com/",
+        "http://skwawkbox.org/",
+        "http://wattsupwiththat.com/",
+        "http://wordhistories.net/",
+        "http://www.bimmerforums.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3163,16 +4013,16 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 5,
+    "US": {
+      "sites": 65,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://bigdave44.com/",
-        "http://skwawkbox.org/",
-        "http://wattsupwiththat.com/",
-        "http://wordhistories.net/",
-        "http://www.bimmerforums.com/"
+        "http://zerowastechef.com/",
+        "http://www.ladyalexauk.com/",
+        "http://hip2keto.com/",
+        "http://www.thehugoawards.org/",
+        "http://earofnewt.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3189,6 +4039,16 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.johnlewis.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "jquery.cookieBar": {
@@ -3199,6 +4059,20 @@
       "exampleSites": [
         "http://www.intensx.com/",
         "http://www.reifetube.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 13,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.pp39.cn/",
+        "http://joiparadise.com/",
+        "http://bustybbwporn.com/",
+        "http://vb-audio.com/",
+        "http://mrdeepfakes.xyz/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3217,16 +4091,16 @@
     }
   },
   "ketch": {
-    "US": {
-      "sites": 18,
+    "GB": {
+      "sites": 8,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.chipotle.com/",
-        "http://magic.wizards.com/",
-        "http://www.ncsasports.org/",
-        "http://www.smartsheet.com/",
-        "http://www.sonicdrivein.com/"
+        "http://gatherer.wizards.com/",
+        "http://www.rover.com/",
+        "http://smallbusiness.chron.com/",
+        "http://www.newsweek.com/",
+        "http://www.smartsheet.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3245,16 +4119,16 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 10,
+    "US": {
+      "sites": 81,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.rover.com/",
-        "http://gatherer.wizards.com/",
-        "http://magic.wizards.com/",
-        "http://smallbusiness.chron.com/",
-        "http://time.com/"
+        "http://www.ncsasports.org/",
+        "http://www.hasbropulse.com/",
+        "http://www.tabnine.com/",
+        "http://www.jamesbeard.org/",
+        "http://community.smartsheet.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3272,10 +4146,20 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.kleinanzeigen.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "leafly": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3295,12 +4179,51 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
         "http://www.leafly.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "lia": {
+    "GB": {
+      "sites": 5,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://community.talktalk.co.uk/",
+        "http://communityforums.atmeta.com/",
+        "http://connect.mozilla.org/",
+        "http://live.paloaltonetworks.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://community.medion.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 8,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://community.checkpoint.com/",
+        "http://connect.mozilla.org/",
+        "http://community.extremenetworks.com/",
+        "http://communityforums.atmeta.com/",
+        "http://live.paloaltonetworks.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3308,52 +4231,64 @@
   },
   "lightbox": {
     "DE": {
-      "sites": 41,
+      "sites": 38,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.stellantis-direktbank.de/",
-        "http://www.volksbankinostwestfalen.de/",
-        "http://www.psd-berlin-brandenburg.de/",
-        "http://www.sparda-b.de/",
-        "http://www.sparda-bank-hamburg.de/"
+        "http://www.vr-teilhaberbank.de/",
+        "http://www.genobroker.de/",
+        "http://www.psd-rhein-ruhr.de/",
+        "http://www.volksbanking.de/",
+        "http://www.hamburger-volksbank.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "lineagrafica": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.ipscstore.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "linkedin.com": {
-    "DE": {
-      "sites": 12,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://it.linkedin.com/",
-        "http://be.linkedin.com/",
-        "http://www.linkedin.com/",
-        "http://ch.linkedin.com/",
-        "http://uk.linkedin.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 17,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://gb.linkedin.com/",
-        "http://au.linkedin.com/",
         "http://nl.linkedin.com/",
-        "http://www.linkedin.com/",
-        "http://za.linkedin.com/"
+        "http://es.linkedin.com/",
+        "http://uk.linkedin.com/",
+        "http://in.linkedin.com/",
+        "http://fr.linkedin.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 12,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://at.linkedin.com/",
+        "http://fr.linkedin.com/",
+        "http://ca.linkedin.com/",
+        "http://uk.linkedin.com/",
+        "http://in.linkedin.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "livejasmin": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3373,7 +4308,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3398,10 +4333,20 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.mediamarkt.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "medium": {
-    "DE": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3411,42 +4356,54 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
         "http://medium.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "microcenter.com": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.microcenter.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "microsoft.com": {
+    "GB": {
+      "sites": 31,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://github.blog/",
+        "http://community.fabric.microsoft.com/",
+        "http://marketplace.visualstudio.com/",
+        "http://www.xbox.com/",
+        "http://create.microsoft.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "DE": {
       "sites": 27,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://windows.microsoft.com/",
-        "http://answers.microsoft.com/",
         "http://learn.microsoft.com/",
-        "http://onedrive.live.com/",
-        "http://outlook.live.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 32,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://visualstudio.microsoft.com/",
-        "http://answers.microsoft.com/",
-        "http://github.blog/",
+        "http://create.microsoft.com/",
         "http://microsoft.com/",
-        "http://onedrive.live.com/"
+        "http://visualstudio.microsoft.com/",
+        "http://devblogs.microsoft.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3454,10 +4411,11 @@
   },
   "midway-usa": {
     "US": {
-      "sites": 1,
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://midwayusa.com/",
         "http://www.midwayusa.com/"
       ],
       "failingSites": [],
@@ -3466,15 +4424,24 @@
   },
   "moneysavingexpert.com": {
     "GB": {
-      "sites": 5,
+      "sites": 4,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://blog.moneysavingexpert.com/",
         "http://clubs.moneysavingexpert.com/",
         "http://forums.moneysavingexpert.com/",
         "http://travelmoney.moneysavingexpert.com/",
         "http://www.moneysavingexpert.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://forums.moneysavingexpert.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3493,7 +4460,7 @@
     }
   },
   "nba.com": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3513,35 +4480,45 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 1,
+    "US": {
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://nba.com/",
         "http://www.nba.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
-  "nhs.uk": {
+  "netflix.de": {
     "US": {
-      "sites": 1,
+      "sites": 4,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "nhs.uk": {
+    "GB": {
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://settings.login.nhs.uk/",
         "http://www.nhs.uk/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 3,
+    "US": {
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://pcse.england.nhs.uk/",
-        "http://settings.login.nhs.uk/",
         "http://www.nhs.uk/"
       ],
       "failingSites": [],
@@ -3549,7 +4526,7 @@
     }
   },
   "nike": {
-    "DE": {
+    "GB": {
       "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3560,7 +4537,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3573,16 +4550,16 @@
     }
   },
   "notice-cookie": {
-    "US": {
-      "sites": 18,
+    "GB": {
+      "sites": 25,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
         "http://www.blacktowhite.net/",
-        "http://forums.civfanatics.com/",
-        "http://www.photrio.com/",
-        "http://www.snbforums.com/",
-        "http://www.tahoeyukonforum.com/"
+        "http://mb.nawcc.org/",
+        "http://www.lpsg.com/",
+        "http://www.seatcupra.net/",
+        "http://pinkfishmedia.net/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3592,25 +4569,59 @@
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.lpsg.com/",
-        "http://forum.heimnetz.de/",
+        "http://forum.astronomie.de/",
+        "http://www.digital-eliteboard.com/",
         "http://forums.civfanatics.com/",
-        "http://forums.freebsd.org/",
-        "http://messerforum.net/"
+        "http://thinkpad-forum.de/",
+        "http://www.lpsg.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 27,
+    "US": {
+      "sites": 126,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.plasterersforum.com/",
-        "http://forums.anandtech.com/",
-        "http://www.audi-sport.net/",
-        "http://www.lpsg.com/",
-        "http://www.lrukforums.com/"
+        "http://trackmustangsonline.com/",
+        "http://secondlifestorage.com/",
+        "http://www.cruxforums.com/",
+        "http://the-boneyard.com/",
+        "http://www.toyoheadquarters.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "nrk.no": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.nrk.no/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "nutritionix.com": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.nutritionix.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.nutritionix.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -3628,23 +4639,75 @@
       "errorSites": []
     }
   },
-  "om": {
-    "DE": {
-      "sites": 10,
+  "ok": {
+    "GB": {
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.uni-kiel.de/",
-        "http://www.awm-muenchen.de/",
+        "http://ok.ru/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ok.ru/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ok.ru/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "om": {
+    "DE": {
+      "sites": 9,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.ash-berlin.eu/",
+        "http://www.umm.de/",
         "http://www.bergsteigen.com/",
-        "http://www.dgbrechtsschutz.de/",
-        "http://www.malteser.de/"
+        "http://www.th-rosenheim.de/",
+        "http://www.uni-kiel.de/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "onlyFans.com": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://onlyfans.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://onlyfans.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "US": {
       "sites": 1,
       "errors": 0,
@@ -3654,54 +4717,23 @@
       ],
       "failingSites": [],
       "errorSites": []
-    },
-    "DE": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://onlyfans.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://onlyfans.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "openai": {
-    "DE": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://platform.openai.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
     }
   },
   "openli": {
     "GB": {
-      "sites": 1,
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.lincolnshire.gov.uk/"
+        "http://www.lincolnshire.gov.uk/",
+        "http://www.rafmuseum.org.uk/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "opera.com": {
-    "DE": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 1,
@@ -3713,7 +4745,7 @@
       ],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 1,
@@ -3727,51 +4759,75 @@
     }
   },
   "osano": {
-    "US": {
-      "sites": 120,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.flowrestling.org/",
-        "http://www.scribd.com/",
-        "http://www.hockey-reference.com/",
-        "http://www.inspire.com/",
-        "http://ping.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 23,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.riotgames.com/",
-        "http://cve.mitre.org/",
-        "http://www.basketball-reference.com/",
-        "http://www.kingston.com/",
-        "http://www.leagueoflegends.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 39,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.inspire.com/",
         "http://www.slideshare.net/",
-        "http://uk.hornby.com/",
-        "http://www.alltrails.com/",
-        "http://www.dummies.com/"
+        "http://na.finalfantasyxiv.com/",
+        "http://wiki.leagueoflegends.com/",
+        "http://www.playboyplus.com/",
+        "http://onlinedoctor.boots.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 21,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.g2.com/",
+        "http://plotly.com/",
+        "http://www.kingston.com/",
+        "http://www.slideshare.net/",
+        "http://pubs.aip.org/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 954,
+      "errors": 1,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://music.fsu.edu/",
+        "http://www.northcoastmed.com/",
+        "http://pura.com/",
+        "http://www.exofficio.com/",
+        "http://www.thedailystar.com/"
+      ],
+      "failingSites": [],
+      "errorSites": [
+        "http://homeofcozy.com/"
+      ]
+    }
+  },
+  "ouraring": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ouraring.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://ouraring.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "ourworldindata": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3791,7 +4847,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3803,7 +4859,7 @@
     }
   },
   "overleaf": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3824,7 +4880,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3836,46 +4892,64 @@
     }
   },
   "pandectes": {
-    "US": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 6,
-      "errors": 0,
-      "selfTestFailures": 1,
-      "exampleSites": [
-        "http://www.fahrrad.de/",
-        "http://de.anycubic.com/",
-        "http://de.roborock.com/",
-        "http://de.ugreen.com/",
-        "http://snocks.com/"
-      ],
-      "failingSites": [
-        "http://snocks.com/"
-      ],
-      "errorSites": []
-    },
     "GB": {
-      "sites": 15,
+      "sites": 16,
       "errors": 1,
       "selfTestFailures": 1,
       "exampleSites": [
-        "http://www.belstaff.com/",
-        "http://dusk.com/",
         "http://www.souschef.co.uk/",
-        "http://montane.com/",
-        "http://www.planetorganic.com/"
+        "http://startfitness.co.uk/",
+        "http://www.tedbaker.com/",
+        "http://www.maplin.co.uk/",
+        "http://uk.mous.co/"
       ],
       "failingSites": [
         "http://www.sam-turner.co.uk/"
       ],
       "errorSites": [
         "http://www.spigen.com/"
+      ]
+    },
+    "DE": {
+      "sites": 6,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://alteserien.de/",
+        "http://de.anycubic.com/",
+        "http://de.roborock.com/",
+        "http://www.fahrrad.de/",
+        "http://snocks.com/"
+      ],
+      "failingSites": [
+        "http://snocks.com/"
+      ],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 161,
+      "errors": 35,
+      "selfTestFailures": 24,
+      "exampleSites": [
+        "http://www.ugreen.com/",
+        "http://schachtspindle.com/",
+        "http://us.roborock.com/",
+        "http://shop.jazwares.com/",
+        "http://www.parentgiving.com/"
+      ],
+      "failingSites": [
+        "http://thehoneypot.co/",
+        "http://chantecaille.com/",
+        "http://www.runinrabbit.com/",
+        "http://ohuhu.com/",
+        "http://www.orukayak.com/"
+      ],
+      "errorSites": [
+        "http://sunriseflourmill.com/",
+        "http://www.rvca.com/",
+        "http://outofdarts.com/",
+        "http://treadlabs.com/",
+        "http://schachtspindle.com/"
       ]
     }
   },
@@ -3893,21 +4967,32 @@
   },
   "paypal-us": {
     "US": {
-      "sites": 5,
+      "sites": 12,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://help.venmo.com/",
-        "http://venmo.com/",
+        "http://developer.paypal.com/",
         "http://www.joinhoney.com/",
-        "http://www.paypal-community.com/",
-        "http://www.paypal.com/"
+        "http://history.paypal.com/",
+        "http://www.zettle.com/",
+        "http://www.paypal-community.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "paypal.com": {
+    "GB": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.paypal-community.com/",
+        "http://www.paypal.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "DE": {
       "sites": 4,
       "errors": 0,
@@ -3921,20 +5006,31 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 2,
+    "US": {
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.paypal-community.com/",
-        "http://www.paypal.com/"
+        "http://careers.pypl.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "pinetools.com": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://pinetools.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "plos": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3954,7 +5050,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3967,22 +5063,66 @@
   },
   "pmc": {
     "US": {
-      "sites": 14,
+      "sites": 19,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.billboard.com/",
-        "http://footwearnews.com/",
-        "http://www.sheknows.com/",
-        "http://soaps.sheknows.com/",
-        "http://www.indiewire.com/"
+        "http://www.hollywoodreporter.com/",
+        "http://tvline.com/",
+        "http://www.rollingstone.com/",
+        "http://www.artnews.com/",
+        "http://variety.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "pornhat": {
+    "GB": {
+      "sites": 10,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://hello.porn/",
+        "http://www.omg.xxx/",
+        "http://many.xxx/",
+        "http://www.freepornvideos.xxx/",
+        "http://www.perfectgirls.xxx/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 7,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://homo.xxx/",
+        "http://www.txxx.porn/",
+        "http://www.freepornvideos.xxx/",
+        "http://www.pornhat.com/",
+        "http://www.perfektdamen.co/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 15,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.pornhat.com/",
+        "http://okxxx1.com/",
+        "http://www.txxx.porn/",
+        "http://www.omg.xxx/",
+        "http://pornstars.tube/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "pornhub.com": {
-    "DE": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -3992,7 +5132,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4003,23 +5143,71 @@
       "errorSites": []
     }
   },
-  "privado": {
-    "DE": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://academic.oup.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
+  "povr": {
     "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://academic.oup.com/"
+        "http://povr.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://povr.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://povr.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "pride.com": {
+    "GB": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.advocate.com/",
+        "http://www.out.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.advocate.com/",
+        "http://www.out.com/",
+        "http://www.pride.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "privado": {
+    "US": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://academic.oup.com/",
+        "http://textrapp.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -4040,47 +5228,49 @@
     }
   },
   "quantcast": {
-    "US": {
-      "sites": 17,
+    "GB": {
+      "sites": 374,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.trustedreviews.com/",
-        "http://dermnetnz.org/",
-        "http://patient.info/",
-        "http://www.jamieoliver.com/",
-        "http://www.marinetraffic.com/"
+        "http://www.dailypost.co.uk/",
+        "http://www.myjewishlearning.com/",
+        "http://www.followfollow.com/",
+        "http://puzzles.standard.co.uk/",
+        "http://www.unknowncheats.me/"
       ],
       "failingSites": [],
       "errorSites": []
     },
     "DE": {
-      "sites": 126,
+      "sites": 122,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://w2g.tv/",
-        "http://www.koelsch-woerterbuch.de/",
-        "http://www.artmajeur.com/",
-        "http://www.base64decode.org/",
-        "http://flightsim.to/"
+        "http://www.exchange-rates.org/",
+        "http://www.boredpanda.com/",
+        "http://www.mathworks.com/",
+        "http://www.digminecraft.com/",
+        "http://de.mathworks.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 370,
-      "errors": 0,
+    "US": {
+      "sites": 163,
+      "errors": 1,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.openculture.com/",
-        "http://www.minif56.com/",
-        "http://www.quotev.com/",
-        "http://primagames.com/",
-        "http://www.visitcheltenham.com/"
+        "http://www.thereisadayforthat.com/",
+        "http://www.psx-place.com/",
+        "http://parissecret.com/",
+        "http://www.sortiraparis.com/",
+        "http://dnd5e.info/"
       ],
       "failingSites": [],
-      "errorSites": []
+      "errorSites": [
+        "http://www.wantedinrome.com/"
+      ]
     }
   },
   "ratemyprofessors": {
@@ -4096,24 +5286,25 @@
     }
   },
   "ring": {
-    "US": {
+    "GB": {
       "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://community.ring.com/",
+        "http://en-uk.ring.com/",
         "http://ring.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 3,
+    "US": {
+      "sites": 4,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
         "http://community.ring.com/",
         "http://en-uk.ring.com/",
+        "http://eu.ring.com/",
         "http://ring.com/"
       ],
       "failingSites": [],
@@ -4121,6 +5312,26 @@
     }
   },
   "roblox": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.roblox.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.roblox.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "US": {
       "sites": 1,
       "errors": 0,
@@ -4128,30 +5339,10 @@
       "exampleSites": [],
       "failingSites": [],
       "errorSites": []
-    },
-    "DE": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.roblox.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.roblox.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
     }
   },
   "rog-forum.asus.com": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4171,7 +5362,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4194,20 +5385,91 @@
       "errorSites": []
     }
   },
-  "samsung.com": {
+  "rt": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.rt.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://www.rt.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "ryanair": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.ryanair.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.ryanair.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.ryanair.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "samsung.com": {
+    "US": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://samsung.com/",
         "http://www.samsung.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
-  "sas": {
+  "sandhills": {
     "US": {
+      "sites": 13,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.truckpaper.com/",
+        "http://www.livestockmarket.com/",
+        "http://tractorhouse.com/",
+        "http://www.tractorhouse.com/",
+        "http://www.machinerytrader.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "sas": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4227,7 +5489,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4239,7 +5501,7 @@
     }
   },
   "setapp.com": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4250,16 +5512,6 @@
       "errorSites": []
     },
     "DE": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://setapp.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4271,84 +5523,104 @@
     }
   },
   "shopify": {
+    "GB": {
+      "sites": 13,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.wiperblades.co.uk/",
+        "http://www.golfclubs4cash.co.uk/",
+        "http://ornamental-trees.co.uk/",
+        "http://www.scarpa.co.uk/",
+        "http://www.mowdirect.co.uk/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.minisforum.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 128,
+      "errors": 0,
+      "selfTestFailures": 3,
+      "exampleSites": [
+        "http://themusicemporium.com/",
+        "http://steelwatergunsafes.com/",
+        "http://www.betsyandadam.com/",
+        "http://thebeachboys.com/",
+        "http://www.thehydrojug.com/"
+      ],
+      "failingSites": [
+        "http://homezonefurniture.com/",
+        "http://nordarun.com/",
+        "http://www.rocskincare.com/"
+      ],
+      "errorSites": []
+    }
+  },
+  "snigel": {
+    "GB": {
+      "sites": 34,
+      "errors": 0,
+      "selfTestFailures": 8,
+      "exampleSites": [
+        "http://www.wordhippo.com/",
+        "http://themovemarket.com/",
+        "http://www.engineeringtoolbox.com/",
+        "http://www.thewordfinder.com/",
+        "http://unherd.com/"
+      ],
+      "failingSites": [
+        "http://www.geoguessr.com/",
+        "http://percentagecalculator.net/",
+        "http://unherd.com/",
+        "http://www.connexionfrance.com/",
+        "http://www.engineeringtoolbox.com/"
+      ],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 26,
+      "errors": 0,
+      "selfTestFailures": 5,
+      "exampleSites": [
+        "http://www.landwirt.com/",
+        "http://www.buchstaben.com/",
+        "http://www.linguee.de/",
+        "http://www.notebookcheck.com/",
+        "http://www.dict.cc/"
+      ],
+      "failingSites": [
+        "http://civitai.com/",
+        "http://oeffentlicher-dienst.info/",
+        "http://www.engineeringtoolbox.com/",
+        "http://www.geoguessr.com/",
+        "http://www.songtell.com/"
+      ],
+      "errorSites": []
+    }
+  },
+  "squiz": {
     "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.goodandbeautiful.com/"
+        "http://news.stanford.edu/"
       ],
       "failingSites": [],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 16,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://www.harrisoncameras.co.uk/",
-        "http://gardening-naturally.com/",
-        "http://www.rutlands.com/",
-        "http://www.wiperblades.co.uk/",
-        "http://www.neptune.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    }
-  },
-  "snigel": {
-    "DE": {
-      "sites": 27,
-      "errors": 0,
-      "selfTestFailures": 4,
-      "exampleSites": [
-        "http://www.notebookcheck.com/",
-        "http://civitai.com/",
-        "http://www.landwirt.com/",
-        "http://www.linguee.fr/",
-        "http://www.livesoccertv.com/"
-      ],
-      "failingSites": [
-        "http://civitai.com/",
-        "http://oeffentlicher-dienst.info/",
-        "http://www.geoguessr.com/",
-        "http://www.songtell.com/"
-      ],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 34,
-      "errors": 0,
-      "selfTestFailures": 7,
-      "exampleSites": [
-        "http://www.linguee.com/",
-        "http://www.wordhippo.com/",
-        "http://www.connexionfrance.com/",
-        "http://www.fmscout.com/",
-        "http://www.geoguessr.com/"
-      ],
-      "failingSites": [
-        "http://civitai.com/",
-        "http://unherd.com/",
-        "http://www.pcgamebenchmark.com/",
-        "http://www.engineeringtoolbox.com/",
-        "http://www.songtell.com/"
-      ],
       "errorSites": []
     }
   },
   "steampowered.com": {
-    "DE": {
-      "sites": 2,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://steamcommunity.com/",
-        "http://store.steampowered.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 2,
       "errors": 0,
@@ -4359,6 +5631,20 @@
       ],
       "failingSites": [
         "http://steamcommunity.com/"
+      ],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 2,
+      "exampleSites": [
+        "http://steamcommunity.com/",
+        "http://store.steampowered.com/"
+      ],
+      "failingSites": [
+        "http://steamcommunity.com/",
+        "http://store.steampowered.com/"
       ],
       "errorSites": []
     }
@@ -4375,8 +5661,63 @@
       "errorSites": []
     }
   },
-  "synology": {
+  "stripchat.com": {
+    "GB": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://stripchat.com/",
+        "http://xhamsterlive.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://de.stripchat.com/",
+        "http://stripchat.com/",
+        "http://xhamsterlive.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "US": {
+      "sites": 8,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://es.stripchat.com/",
+        "http://xham.live/",
+        "http://stickam.com/",
+        "http://stripchat.global/",
+        "http://xhamsterlive.com/"
+      ],
+      "failingSites": [
+        "http://xham.live/"
+      ],
+      "errorSites": []
+    }
+  },
+  "summitracing": {
+    "US": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.dxengineering.com/",
+        "http://www.summitracing.com/",
+        "http://www.trickflow.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "synology": {
+    "GB": {
       "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4398,11 +5739,12 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 2,
+    "US": {
+      "sites": 3,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://global.download.synology.com/",
         "http://kb.synology.com/",
         "http://www.synology.com/"
       ],
@@ -4411,74 +5753,85 @@
     }
   },
   "tarteaucitron.js": {
-    "US": {
-      "sites": 2,
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://www.institut-francais.org.uk/"
+      ],
+      "failingSites": [
+        "http://www.institut-francais.org.uk/"
+      ],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 5,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://en.mediamass.net/",
-        "http://gw.geneanet.org/"
+        "http://de.geneanet.org/",
+        "http://gfds.de/",
+        "http://www.meingehalt.net/",
+        "http://www.sg-akustik.de/",
+        "http://www.vendeeglobe.org/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "DE": {
-      "sites": 6,
+    "US": {
+      "sites": 18,
       "errors": 0,
-      "selfTestFailures": 1,
+      "selfTestFailures": 4,
       "exampleSites": [
-        "http://www.vendeeglobe.org/",
-        "http://www.fachzeitungen.de/",
-        "http://www.green-acres.fr/",
-        "http://www.meingehalt.net/",
-        "http://www.sg-akustik.de/"
+        "http://www.sainte-chapelle.fr/",
+        "http://us.mersen.com/",
+        "http://www.uvi.net/",
+        "http://www.manitowoc.com/",
+        "http://www.elysee.fr/"
       ],
       "failingSites": [
-        "http://www.green-acres.fr/"
-      ],
-      "errorSites": []
-    },
-    "GB": {
-      "sites": 3,
-      "errors": 0,
-      "selfTestFailures": 2,
-      "exampleSites": [
-        "http://en.mediamass.net/",
-        "http://uk.ambafrance.org/",
-        "http://www.institut-francais.org.uk/"
-      ],
-      "failingSites": [
-        "http://uk.ambafrance.org/",
-        "http://www.institut-francais.org.uk/"
+        "http://gallica.bnf.fr/",
+        "http://rsf.org/",
+        "http://us.mersen.com/",
+        "http://www.manitowoc.com/"
       ],
       "errorSites": []
     }
   },
   "taunton": {
     "US": {
-      "sites": 3,
+      "sites": 5,
       "errors": 0,
-      "selfTestFailures": 3,
+      "selfTestFailures": 5,
       "exampleSites": [
+        "http://www.finegardening.com/",
         "http://www.finehomebuilding.com/",
         "http://www.finewoodworking.com/",
-        "http://www.greenbuildingadvisor.com/"
+        "http://www.greenbuildingadvisor.com/",
+        "http://www.threadsmagazine.com/"
       ],
       "failingSites": [
+        "http://www.finegardening.com/",
         "http://www.finehomebuilding.com/",
         "http://www.finewoodworking.com/",
-        "http://www.greenbuildingadvisor.com/"
+        "http://www.greenbuildingadvisor.com/",
+        "http://www.threadsmagazine.com/"
       ],
       "errorSites": []
     }
   },
   "termsfeed": {
-    "US": {
-      "sites": 1,
+    "GB": {
+      "sites": 6,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.automationdirect.com/"
+        "http://statisticstimes.com/",
+        "http://www.manchestertheatres.com/",
+        "http://www.mowermagic.co.uk/",
+        "http://www.useyourlocal.com/",
+        "http://www.trafford.gov.uk/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -4495,14 +5848,16 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 3,
+    "US": {
+      "sites": 36,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.manchestertheatres.com/",
-        "http://www.sabre-roads.org.uk/",
-        "http://www.useyourlocal.com/"
+        "http://www.videoexpertsgroup.com/",
+        "http://frostdate.com/",
+        "http://planephd.com/",
+        "http://www.rakwireless.com/",
+        "http://gosamples.dev/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -4520,16 +5875,39 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "US": {
+      "sites": 15,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.silvertowne.com/",
+        "http://www.busbud.com/",
+        "http://www.themeasureofthings.com/",
+        "http://www.positivesingles.com/",
+        "http://www.cati.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "tesco": {
     "GB": {
-      "sites": 3,
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://secure.tesco.com/",
         "http://tesco.com/",
+        "http://www.tesco.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
         "http://www.tesco.com/"
       ],
       "failingSites": [],
@@ -4537,22 +5915,6 @@
     }
   },
   "tiktok.com": {
-    "US": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [],
-      "failingSites": [],
-      "errorSites": []
-    },
-    "DE": {
-      "sites": 1,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 1,
       "errors": 0,
@@ -4562,10 +5924,62 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 6,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "tinyurl": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://tinyurl.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://tinyurl.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "toyota": {
+    "US": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://toyota.com/",
+        "http://www.lexus.com/",
+        "http://www.toyota.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "tplink": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4585,11 +5999,12 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 1,
+    "US": {
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://emulator.tp-link.com/",
         "http://www.tp-link.com/"
       ],
       "failingSites": [],
@@ -4597,44 +6012,88 @@
     }
   },
   "transcend": {
-    "US": {
-      "sites": 54,
+    "GB": {
+      "sites": 15,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
         "http://www.notion.com/",
-        "http://www.costco.ca/",
-        "http://login.verizonwireless.com/",
-        "http://ohiostatebuckeyes.com/",
-        "http://osubeavers.com/"
+        "http://www.costco.com/",
+        "http://www.verizon.com/",
+        "http://www.justanswer.co.uk/",
+        "http://www.eventbrite.co.uk/"
       ],
       "failingSites": [],
       "errorSites": []
     },
     "DE": {
-      "sites": 10,
+      "sites": 9,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.notion.com/",
-        "http://anaconda.org/",
+        "http://1password.com/",
+        "http://www.justanswer.de/",
         "http://vimeo.com/",
-        "http://www.anaconda.com/",
-        "http://www.eventbrite.com/"
+        "http://www.gofundme.com/",
+        "http://www.notion.com/"
       ],
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 13,
+    "US": {
+      "sites": 480,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.gofundme.com/",
-        "http://anaconda.org/",
-        "http://www.notion.so/",
-        "http://support.1password.com/",
-        "http://www.justanswer.com/"
+        "http://gofrogs.com/",
+        "http://www.verizon.com/",
+        "http://gousfbulls.com/",
+        "http://www.cnusports.com/",
+        "http://thesummitleague.org/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "truecar": {
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.truecar.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "truthsocial": {
+    "GB": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://truthsocial.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://truthsocial.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://truthsocial.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -4642,20 +6101,22 @@
   },
   "truyo": {
     "US": {
-      "sites": 3,
+      "sites": 28,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://locations.oreillyauto.com/",
-        "http://www.joann.com/",
-        "http://www.oreillyauto.com/"
+        "http://www.jamba.com/",
+        "http://progleasing.com/",
+        "http://www.massageenvy.com/",
+        "http://www.rentacenter.com/",
+        "http://wilton.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "tumblr-com": {
-    "DE": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4665,7 +6126,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4677,7 +6138,7 @@
     }
   },
   "twcc": {
-    "DE": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4687,7 +6148,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "DE": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4699,17 +6160,6 @@
     }
   },
   "twitch.tv": {
-    "DE": {
-      "sites": 2,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://de.twitch.tv/",
-        "http://www.twitch.tv/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 2,
       "errors": 0,
@@ -4720,10 +6170,21 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "DE": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://de.twitch.tv/",
+        "http://www.twitch.tv/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "u12-data-protection-notice": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4743,23 +6204,25 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://help.x.com/"
+        "http://developer.x.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "ubuntu.com": {
-    "US": {
-      "sites": 2,
+    "GB": {
+      "sites": 4,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://discourse.ubuntu.com/",
+        "http://documentation.ubuntu.com/",
         "http://snapcraft.io/",
         "http://ubuntu.com/"
       ],
@@ -4777,13 +6240,16 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 2,
+    "US": {
+      "sites": 7,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://snapcraft.io/",
-        "http://ubuntu.com/"
+        "http://canonical.com/",
+        "http://discourse.ubuntu.com/",
+        "http://documentation.ubuntu.com/",
+        "http://ubuntu.com/",
+        "http://snapcraft.io/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -4802,49 +6268,51 @@
     }
   },
   "usercentrics-api": {
-    "US": {
-      "sites": 20,
+    "GB": {
+      "sites": 48,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://www.mdpi.com/",
+        "http://www.viessmann.co.uk/",
         "http://support.industry.siemens.com/",
-        "http://www.enbridgegas.com/",
-        "http://www.getyourguide.com/",
-        "http://www.uaudio.com/"
+        "http://www.einhell.co.uk/",
+        "http://www.steinberg.net/",
+        "http://www.aru.ac.uk/"
       ],
       "failingSites": [],
       "errorSites": []
     },
     "DE": {
-      "sites": 581,
+      "sites": 595,
       "errors": 0,
-      "selfTestFailures": 2,
+      "selfTestFailures": 1,
       "exampleSites": [
-        "http://www.mercateo.com/",
-        "http://www.knappschaft.de/",
-        "http://www.norma24.de/",
-        "http://mueller.de/",
-        "http://www.sport-schuster.de/"
+        "http://www.emma-matratze.de/",
+        "http://www.orion.de/",
+        "http://www.hallesche.de/",
+        "http://tonies.com/",
+        "http://www.cigarworld.de/"
       ],
       "failingSites": [
-        "http://versorgungsmedizinische-grundsaetze.de/",
-        "http://www.myheimat.de/"
+        "http://versorgungsmedizinische-grundsaetze.de/"
       ],
       "errorSites": []
     },
-    "GB": {
-      "sites": 49,
+    "US": {
+      "sites": 252,
       "errors": 0,
-      "selfTestFailures": 0,
+      "selfTestFailures": 2,
       "exampleSites": [
-        "http://www.huwsgray.co.uk/",
-        "http://www.zoopla.co.uk/",
-        "http://www.crosscountrytrains.co.uk/",
-        "http://www.emma-sleep.co.uk/",
-        "http://www.eonenergy.com/"
+        "http://www.wago.com/",
+        "http://trivago.com/",
+        "http://www.enbridgegas.com/",
+        "http://www.anastasiabeverlyhills.com/",
+        "http://www.presonus.com/"
       ],
-      "failingSites": [],
+      "failingSites": [
+        "http://gretschguitars.com/",
+        "http://www.evhgear.com/"
+      ],
       "errorSites": []
     }
   },
@@ -4854,15 +6322,30 @@
       "errors": 0,
       "selfTestFailures": 2,
       "exampleSites": [
-        "http://www.onvista-bank.de/",
-        "http://docs.typo3.org/",
+        "http://bos-fahrzeuge.info/",
+        "http://www.ikb.de/",
         "http://www.advocard.de/",
-        "http://www.buesum.de/",
-        "http://www.volksbank-brawo.de/"
+        "http://www.volksbank-brawo.de/",
+        "http://www.marburger-bund.de/"
       ],
       "failingSites": [
         "http://docs.typo3.org/",
         "http://www.fcstpauli.com/"
+      ],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 5,
+      "errors": 0,
+      "selfTestFailures": 1,
+      "exampleSites": [
+        "http://www.orafol.com/",
+        "http://www.reedsmith.com/",
+        "http://www.truma.com/",
+        "http://www.yogitea.com/"
+      ],
+      "failingSites": [
+        "http://www.reedsmith.com/"
       ],
       "errorSites": []
     }
@@ -4874,6 +6357,16 @@
       "selfTestFailures": 0,
       "exampleSites": [
         "http://uswitch.com/",
+        "http://www.uswitch.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 1,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
         "http://www.uswitch.com/"
       ],
       "failingSites": [],
@@ -4893,8 +6386,93 @@
       "errorSites": []
     }
   },
-  "wikiwand": {
+  "webflow": {
+    "GB": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.ljmu.ac.uk/",
+        "http://www.rupahealth.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://www.goodnotes.com/",
+        "http://www.horoskop-paradies.ch/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
     "US": {
+      "sites": 53,
+      "errors": 0,
+      "selfTestFailures": 9,
+      "exampleSites": [
+        "http://www.califchickencafe.com/",
+        "http://teamliquid.com/",
+        "http://www.datawallet.com/",
+        "http://www.joannrestructuring.com/",
+        "http://www.2way.tv/"
+      ],
+      "failingSites": [
+        "http://www.evercast.us/",
+        "http://synder.com/",
+        "http://www.beambenefits.com/",
+        "http://www.rupahealth.com/",
+        "http://www.eaglepharmacy.com/"
+      ],
+      "errorSites": []
+    }
+  },
+  "wiki.gg": {
+    "GB": {
+      "sites": 3,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://calamitymod.wiki.gg/",
+        "http://pve.proxmox.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 8,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://de.pornopedia.com/",
+        "http://wiki.manjaro.org/",
+        "http://klexikon.zum.de/",
+        "http://unterrichten.zum.de/",
+        "http://wuerzburgwiki.de/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 69,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://spaceidle.game-vault.net/",
+        "http://wiki.projectdiablo2.com/",
+        "http://cloudmeadow.miraheze.org/",
+        "http://www.whonix.org/",
+        "http://balatromods.miraheze.org/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "wikiwand": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4914,7 +6492,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -4926,11 +6504,12 @@
     }
   },
   "wix": {
-    "US": {
-      "sites": 1,
+    "GB": {
+      "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://support.wix.com/",
         "http://www.wix.com/"
       ],
       "failingSites": [],
@@ -4947,12 +6526,12 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 2,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://support.wix.com/",
+        "http://wix.com/",
         "http://www.wix.com/"
       ],
       "failingSites": [],
@@ -4971,16 +6550,29 @@
       "errorSites": []
     }
   },
-  "wpcc": {
-    "US": {
-      "sites": 4,
+  "woo-commerce-com": {
+    "GB": {
+      "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
+        "http://woocommerce.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "wpcc": {
+    "GB": {
+      "sites": 7,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://fr.thisvid.com/",
+        "http://www.thisvid.com/",
         "http://thisvid.com/",
-        "http://www.azmen.com/",
         "http://www.aznude.com/",
-        "http://www.thisvid.com/"
+        "http://www.azmen.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -4997,46 +6589,83 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
-      "sites": 5,
+    "US": {
+      "sites": 23,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://thisvid.com/",
-        "http://www.askmid.com/",
-        "http://www.azmen.com/",
+        "http://www.alaska.edu/",
+        "http://homecoffeeexpert.com/",
         "http://www.aznude.com/",
-        "http://www.thisvid.com/"
+        "http://www.thedarkpixieastrology.com/",
+        "http://hospitalcareers.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    }
+  },
+  "xgroovy": {
+    "GB": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://anysex.com/",
+        "http://xgroovy.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://de.xgroovy.com/",
+        "http://xgroovy.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "US": {
+      "sites": 4,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://anysex.com/",
+        "http://de.xgroovy.com/",
+        "http://es.xgroovy.com/",
+        "http://xgroovy.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "xhamster-eu": {
-    "DE": {
-      "sites": 11,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://ru.xhamster.com/",
-        "http://fra.xhamster.com/",
-        "http://ge.xhamster.com/",
-        "http://ge.xhamster2.com/",
-        "http://xhamster3.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 5,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
         "http://fra.xhamster.com/",
-        "http://secure.xhamster.com/",
+        "http://ita.xhamster.com/",
         "http://xhamster.com/",
         "http://xhamster2.com/",
         "http://xhamster3.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
+    },
+    "DE": {
+      "sites": 9,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://fra.xhamster.com/",
+        "http://ru.xhamster.com/",
+        "http://ge.xhamster2.com/",
+        "http://pl.xhamster.com/",
+        "http://xhamster.com/"
       ],
       "failingSites": [],
       "errorSites": []
@@ -5044,31 +6673,21 @@
   },
   "xhamster-us": {
     "US": {
-      "sites": 4,
+      "sites": 15,
       "errors": 0,
       "selfTestFailures": 0,
       "exampleSites": [
-        "http://fra.xhamster.com/",
-        "http://xhamster.com/",
         "http://xhamster2.com/",
-        "http://xhamster3.com/"
+        "http://ko.xhamster2.com/",
+        "http://zh.xhamster.com/",
+        "http://secure.xhamster.com/",
+        "http://nl.xhamster.com/"
       ],
       "failingSites": [],
       "errorSites": []
     }
   },
   "youtube-desktop": {
-    "DE": {
-      "sites": 2,
-      "errors": 0,
-      "selfTestFailures": 0,
-      "exampleSites": [
-        "http://de.youtube.com/",
-        "http://www.youtube.com/"
-      ],
-      "failingSites": [],
-      "errorSites": []
-    },
     "GB": {
       "sites": 3,
       "errors": 0,
@@ -5080,10 +6699,21 @@
       ],
       "failingSites": [],
       "errorSites": []
+    },
+    "DE": {
+      "sites": 2,
+      "errors": 0,
+      "selfTestFailures": 0,
+      "exampleSites": [
+        "http://de.youtube.com/",
+        "http://www.youtube.com/"
+      ],
+      "failingSites": [],
+      "errorSites": []
     }
   },
   "zdf": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -5106,7 +6736,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -5118,7 +6748,7 @@
     }
   },
   "zinio": {
-    "US": {
+    "GB": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
@@ -5138,7 +6768,7 @@
       "failingSites": [],
       "errorSites": []
     },
-    "GB": {
+    "US": {
       "sites": 1,
       "errors": 0,
       "selfTestFailures": 0,
